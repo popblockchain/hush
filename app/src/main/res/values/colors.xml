@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* 
+**
+** Copyright 2008, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License"); 
+** you may not use this file except in compliance with the License. 
+** You may obtain a copy of the License at 
+**
+**     http://www.apache.org/licenses/LICENSE-2.0 
+**
+** Unless required by applicable law or agreed to in writing, software 
+** distributed under the License is distributed on an "AS IS" BASIS, 
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+** See the License for the specific language governing permissions and 
+** limitations under the License.
+*/
+-->
+<resources>
+    <color name="candidate_normal">#FF000000</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_background">#bbffffff</color>
+    <color name="yellow1">#888800</color>
+    <color name="yellow2">#aaaa33</color>
+    <color name="black">#333333</color>
+    <color name="red1">#880000</color>
+    <color name="red2">#cc3333</color>
+    <color name="orange4">#883300</color>
+    <color name="orange5">#aa7733</color>
+    <color name="grey05">#666666</color>
+    <!-- color name="blue2">#039be5</color>
+    <color name="blue25">#29b6f6</color -->
+    <color name="blue2">#23abf5</color>
+    <color name="blue25">#49c6f6</color>
+
+    <color name="ProcStateNone">#ffffff</color>
+    <color name="ProcStateCheckResume">#88ffff</color>
+    <color name="ProcStateInitContacts">#8888ff</color>
+        <color name="ProcStateCheckLogin">#88ff88</color>
+        <color name="ProcStateRequesting">#00ffff</color>
+        <color name="ProcStateSending">#0088ff</color>
+            <color name="ProcStateStopped">#ff0000</color>
+            <color name="ProcStateSendResult">#8888ff</color>
+                <color name="ProcStateGather">#0000ff</color>
+                
+    <color name="basic_back">#ffeaeefb</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue_dark">#ff0669b2</color>
+    <color name="white">#ffffff</color>
+    <color name="listitemfocus">#33191919</color>
+    <color name="listitempress">#663FBCEF</color>
+
+    <!-- 버튼 -->
+    <color name="grayborder">#ffc0c0c0</color>
+    <color name="crimsonborder">#fff8adae</color>
+    <color name="crimson_btn_color_start">#da534e</color>
+    <color name="crimson_btn_color_end">#f06965</color>
+    <color name="gray_btn_color_start">#9d9e9e</color>
+    <color name="gray_btn_color_end">#b5b6b6</color>
+    <color name="yellow_btn_color_start">#ff8800</color>
+    <color name="yellow_btn_color_end">#ffbb33</color>
+    <color name="blue_btn_color_start">#0099cc</color>
+    <color name="blue_btn_color_end">#33b5e5</color>
+
+    <!-- andylitics에서 가져옴 -->
+    <color name="andBackground">#EDEEF1</color>
+    <color name="andActionbarBackground">#454545</color>
+    <color name="blackText">#555555</color>
+    <color name="lightBlue">#33B5E5</color>
+    <color name="rowLight">#F7FBF5</color>
+    <color name="rowDark">#F3F4F5</color>
+    <color name="andBackgroundLight">#F7FBF5</color>
+    <color name="andBackgroundDark">#F3F4F5</color>
+    <color name="andBackgroundDarkHighlight">#DCE1E2</color>
+    <color name="andBorder">#CFD2DA</color>
+    <color name="andDivider">#E0E3E9</color>
+
+    <!-- MenuDrawer -->
+    <color name="md__transparent">#00000000</color>
+    <color name="md__defaultBackground">#FF555555</color>
+    <color name="md__mainDrawerBackground">#FF002200</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>

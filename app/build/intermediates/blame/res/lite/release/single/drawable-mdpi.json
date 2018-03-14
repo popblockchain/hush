@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\sym_keyboard_shift.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_shift.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\sym_keyboard_return.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\sym_keyboard_search.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_search.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\sym_keyboard_done.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_done.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\icon_en_us.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\icon_en_us.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\icon_en_gb.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\icon_en_gb.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\sym_keyboard_delete.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\sym_keyboard_space.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_space.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-mdpi\\sym_keyboard_language_switch.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-mdpi\\sym_keyboard_language_switch.png"
+    }
+]

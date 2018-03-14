@@ -1,0 +1,45 @@
+import com.android.build.gradle.internal.dsl.ProductFlavor
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.2"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 27
+        versionName "1.0.0" //"1.0.6 Beta"
+        versionCode 28
+        //applicationId "com.stealth.hush"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    productFlavors {
+        lite {
+            applicationId 'com.stealth.hush.lite'
+        }
+        couple {
+            applicationId 'com.stealth.hush.couple'
+        }
+        company {
+            applicationId 'com.stealth.hush.company'
+        }
+        companymgr {
+            applicationId 'com.stealth.hush.companymgr'
+        }
+    }
+
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:27.0.1'
+    compile project(':commons-codec-1.5')
+    compile files('libs/picasso-2.5.2.jar')
+}

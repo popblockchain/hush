@@ -1,0 +1,167 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LLSettings"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="0dp"
+    android:weightSum="100"
+    android:background="@drawable/backgnd"
+    tools:context=".Settings" >
+  
+  <!-- group id -->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+    <LinearLayout
+          android:id="@+id/ll_user_phone_no"
+          android:layout_weight="8"
+          android:weightSum="10" 
+          android:layout_width="match_parent"
+          android:layout_height="0dp" >
+
+        <TextView
+            android:id="@+id/tv_user_phone_no"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="4"
+            android:gravity="center"
+            android:text="@string/user_phone_no"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000" />
+    
+        <RelativeLayout
+        android:padding="0dp" 
+        android:layout_width="0dp"
+        android:layout_height="match_parent" 
+        android:layout_weight="6">
+        
+        <ImageView
+            android:id="@+id/image_user_phone_no"
+            android:layout_marginTop ="0dp" 
+            android:layout_marginLeft ="0dp" 
+            android:layout_marginRight ="10dp" 
+            android:layout_marginBottom ="0dp" 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/text_box" />
+        
+        <EditText
+				android:id="@+id/et_user_phone_no"
+                android:layout_marginTop ="5dp" 
+                android:layout_marginLeft ="5dp" 
+                android:layout_marginRight ="15dp" 
+                android:layout_marginBottom ="5dp" 
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+                android:background="#ffffff"
+                android:hint="@string/user_phone_no_hint"
+                android:textSize="18sp" 
+                android:inputType = "text"                 
+                 />
+         
+        </RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+            android:layout_weight="2" 
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+    
+       <RadioButton
+           android:id="@+id/rbtn_1"
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="8"
+           android:textSize="15sp"
+           android:onClick="rbtn_1_pressed"
+            android:textColor="#000000"
+           android:text="@string/sdcard_use" />
+            
+       <RadioButton
+           android:id="@+id/rbtn_2"
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="8"
+           android:textSize="15sp"
+           android:onClick="rbtn_2_pressed"
+            android:textColor="#000000"
+           android:text="@string/sdcard_no_use" />
+            
+       <RadioButton
+           android:id="@+id/rbtn_3"
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="8"
+           android:textSize="15sp"
+           android:onClick="rbtn_3_pressed"
+            android:textColor="#000000"
+           android:text="@string/phone_lost" />
+            
+       <RadioButton
+           android:id="@+id/rbtn_4"
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_weight="8"
+           android:textSize="15sp"
+           android:onClick="rbtn_4_pressed"
+            android:textColor="#000000"
+           android:text="@string/phone_found" />
+
+       <TextView
+           android:id="@+id/textView2"
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+            android:layout_weight="15" 
+           android:gravity="center"
+           android:lines="2"
+           android:text="@string/sdcard_help"
+           android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+            android:layout_weight="2" 
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <LinearLayout
+          android:layout_weight="10"
+          android:weightSum="10" 
+          android:layout_width="match_parent"
+          android:layout_height="0dp" >
+    
+         <Button
+	           android:id="@+id/btn_ok"
+              android:layout_width="0dp"
+              android:layout_height="match_parent"
+              android:layout_weight="10" 
+                android:layout_marginTop ="2dp" 
+                android:layout_marginBottom ="2dp" 
+                android:layout_marginLeft ="5dp" 
+                android:layout_marginRight ="5dp" 
+              android:background="@drawable/bottom_menu_button"
+              android:onClick="btn_ok_pressed"
+              android:textColor="#ffffff"
+                android:textSize="16sp" 
+	           android:text="@string/ok" />
+        
+
+    </LinearLayout>	   
+
+</LinearLayout>

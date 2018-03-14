@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="vertical"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         android:background="@drawable/backgnd"
+         android:weightSum="100"
+         android:paddingLeft="0dp"
+         android:paddingRight="0dp">
+    
+    <RelativeLayout 
+        android:padding="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" 
+        android:layout_weight="9">
+        
+        <ImageView
+            android:id="@+id/top_title_background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/top_title_background" />
+
+        <ImageView
+            android:id="@+id/launcher"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:scaleType="fitXY"
+            android:layout_marginLeft ="10dp" 
+            android:layout_alignParentLeft ="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/contacts_phone_normal" />
+        
+        <TextView
+          android:id="@+id/tv_title"
+         android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+         android:text="@string/phone_group_list"
+         android:textColor="#000000"
+            android:textSize="21sp" 
+            android:textStyle="bold" 
+            android:gravity="center" 
+            android:layout_centerVertical="true"
+            />
+      
+        <Button
+            android:id="@+id/btn_reload"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:scaleType="fitXY"
+            android:layout_marginTop ="10dp" 
+            android:layout_marginBottom ="10dp" 
+            android:layout_marginRight ="10dp" 
+            android:layout_alignParentRight ="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/update"
+            android:onClick = "btn_reload_pressed"
+             />
+
+   </RelativeLayout>
+    
+    <RelativeLayout 
+        android:padding="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" 
+        android:layout_weight="8">
+        
+        <ImageView
+            android:id="@+id/search"
+            android:layout_marginTop ="2dp" 
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:scaleType="fitXY"
+            android:layout_marginLeft ="13dp" 
+            android:layout_alignParentLeft ="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/search" />
+           
+        <ImageView
+            android:id="@+id/image_search"
+            android:layout_marginTop ="3dp" 
+            android:layout_marginLeft ="16dp" 
+            android:layout_marginRight ="15dp" 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/search" 
+            android:scaleType="fitXY"
+            android:src="@drawable/text_box" />
+        
+        <EditText
+            android:id="@+id/et_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/search" 
+                android:padding="4dp" 
+                android:layout_marginTop ="8dp" 
+                android:layout_marginLeft ="21dp" 
+                android:layout_marginRight ="20dp"
+            android:layout_centerVertical = "true"
+            android:background="#ffffff"
+            android:hint="@string/searchNameOrPhone"
+                android:textSize="15sp" 
+                android:inputType = "text"                 
+                 /> 
+                      
+   </RelativeLayout>
+   
+    <ListView android:id="@id/android:list"
+               android:layout_width="fill_parent"
+               android:layout_height="0dp"
+               android:layout_weight="83"
+               android:drawSelectorOnTop="true" 
+               android:choiceMode="singleChoice" 
+               android:clickable="true" />
+
+     
+     
+ </LinearLayout>
+

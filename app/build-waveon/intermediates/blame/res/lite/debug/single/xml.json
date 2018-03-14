@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\google.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\google.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\symbols_shift.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\symbols_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\numeric_symbols.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\numeric_symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\chunjiin.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\chunjiin.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\qwerty_korean.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\qwerty_korean.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\ime_preferences.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\ime_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\qwerty.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\qwerty_korean_shift.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\qwerty_korean_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\method.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\debug\\xml\\google2.xml",
+        "source": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\google2.xml"
+    }
+]

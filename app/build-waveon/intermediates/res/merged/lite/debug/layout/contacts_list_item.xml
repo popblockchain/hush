@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:id="@+id/select_group" 
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:weightSum = "20"
+     android:orientation="horizontal">
+
+     <!-- CheckBox android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:id="@+id/select_group"
+              android:text="@string/select_group"/ -->
+
+   <CheckBox 
+    android:id="@+id/check_group" 
+    android:button="@drawable/check_button_white" 
+    android:layout_weight="4" 
+    android:layout_width="0dp" 
+    android:layout_height="wrap_content" 
+    android:checked="false" />
+
+   <TextView android:id="@+id/text1" 
+             android:layout_weight="9" 
+             android:layout_width="0dp" 
+             android:layout_height="wrap_content" 
+             android:textColor="@color/black"
+             android:textStyle="bold"
+             android:textSize="18sp" 
+             />
+
+   <TextView 
+             android:id="@+id/text2" 
+             android:layout_weight="7" 
+             android:layout_width="0dp" 
+             android:layout_height="wrap_content" 
+             android:textColor="@color/black"
+             android:textSize="18sp" 
+             android:textStyle="bold" />
+   
+ </LinearLayout>

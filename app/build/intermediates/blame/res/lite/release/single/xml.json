@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\google.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\google.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\qwerty_korean_shift.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\qwerty_korean_shift.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\method.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\ime_preferences.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\ime_preferences.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\numeric_symbols.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\numeric_symbols.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\qwerty.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\symbols_shift.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\symbols_shift.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\chunjiin.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\chunjiin.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\google2.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\google2.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\xml\\qwerty_korean.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\xml\\qwerty_korean.xml"
+    }
+]

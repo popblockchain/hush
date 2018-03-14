@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\group_list.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\group_list.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\my_info.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\my_info.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\group_select.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\group_select.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\password_ask.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\password_ask.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\popup_decrypt.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\popup_decrypt.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\wordlock_help.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\wordlock_help.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\otg_help.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\otg_help.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\login.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\member_make_dialog.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\member_make_dialog.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\help_korean.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\help_korean.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\env_item.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\env_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\popup_encrypt.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\popup_encrypt.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\member_list.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\member_list.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\contacts_list.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\contacts_list.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\group_reg.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\group_reg.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\phone_number.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\phone_number.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\time_out.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\time_out.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\group_item.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\group_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\group_select_item.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\group_select_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\share_setting.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\share_setting.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\change_pass.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\change_pass.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\puzzle.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\puzzle.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\ask_login.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\ask_login.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\env_settings.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\env_settings.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\member_item.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\member_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\regist_name.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\regist_name.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\contacts_list_item.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\contacts_list_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\regist_etc.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\regist_etc.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\help_english.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\help_english.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\detail_list_item.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\detail_list_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\regist_phone.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\regist_phone.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\voice_input.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\voice_input.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\power_manage.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\power_manage.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\fragment_stealth.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\fragment_stealth.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\input.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\input.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\env_settings_no_kbd.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\env_settings_no_kbd.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\detail_list.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\detail_list.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\puzzle_reg.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\puzzle_reg.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\kbd_setting.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\kbd_setting.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\puzzle_item.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\puzzle_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\pager_item.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\pager_item.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\layout\\regist_pass.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\layout\\regist_pass.xml"
+    }
+]

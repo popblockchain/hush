@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="time_out">
+
+        <item>1분</item>
+
+        <item>5분</item>
+
+        <item>10분</item>
+
+        <item>30분</item>
+
+        <item>1시간</item>
+
+        <item>2시간</item>
+
+        <item>4시간</item>
+
+        <item>8시간</item>
+
+        <item>12시간</item>
+
+        <item>24시간</item>
+        <item>7일간</item>
+
+    </string-array>
+
+</resources>

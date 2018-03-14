@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:weightSum="100" 
+    android:background="@drawable/backgnd"
+    >
+    <RelativeLayout
+        android:padding="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="9"
+        android:layout_height="0dp"
+        >
+
+        <ImageView
+            android:id="@+id/top_title_background"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/top_title_background" />
+
+        <ImageView
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:scaleType="fitXY"
+            android:layout_marginLeft ="10dp"
+            android:layout_alignParentLeft ="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/icon" />
+
+        <TextView
+		    android:id="@+id/tv_title"
+			android:layout_width="match_parent"
+            android:layout_height="match_parent"
+			android:text="@string/app_name_decrypt"
+			android:textColor="#ffffff"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/btn_settings"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:scaleType="fitXY"
+            android:layout_marginTop ="10dp"
+            android:layout_marginBottom ="10dp"
+            android:layout_marginRight ="10dp"
+            android:layout_alignParentRight ="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/settings"
+            android:onClick = "btn_settings_pressed"
+             />
+
+      </RelativeLayout>
+
+      <TextView
+          android:id="@+id/tv_Title"
+          android:layout_width="fill_parent"
+          android:layout_height="0dp"
+          android:layout_weight="8"
+          android:gravity="center"
+		  android:textColor="#000000"
+          android:textSize="20sp" 
+          android:text="" />
+
+    <RelativeLayout
+        android:padding="0dp"
+        android:layout_width="match_parent"
+        android:layout_marginLeft ="10dp"
+        android:layout_marginRight ="10dp"
+        android:layout_height="0dp"
+        android:layout_weight="55">
+
+    <ImageView
+        android:layout_marginTop ="0dp"
+        android:layout_marginLeft ="5dp"
+        android:layout_marginRight ="5dp"
+        android:layout_marginBottom ="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/text_box" />
+
+     <ScrollView
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_marginTop ="5dp"
+         android:layout_marginLeft ="10dp"
+         android:layout_marginRight ="10dp"
+         android:layout_marginBottom ="5dp"
+         >
+      <TextView
+          android:id="@+id/textContent"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+		  android:textColor="#000000"
+          android:textSize="17sp" 
+          android:autoLink="all"
+          android:text="" />
+     </ScrollView>
+    </RelativeLayout>
+
+      <!-- ImageView
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_weight="17"
+          android:onClick = "ad1_pressed"
+          android:src="@drawable/ad1" / -->
+
+      <TextView
+          android:id="@+id/tv_remained"
+          android:layout_width="fill_parent"
+          android:layout_height="0dp"
+          android:layout_weight="8"
+          android:layout_marginLeft ="20dp"
+          android:layout_marginRight ="20dp"
+          android:gravity="center_vertical"
+		  android:textColor="#000000"
+          android:textSize="18sp"
+          android:text="remained time" />
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_marginLeft ="20dp"
+        android:layout_marginRight ="20dp"
+        android:weightSum = "20"
+        android:layout_gravity="center_horizontal">
+
+    <TextView
+          android:id="@+id/tv_puzzle_rcvd"
+          android:layout_width="0dp"
+          android:layout_height="match_parent"
+          android:layout_weight="16"
+          android:gravity="center"
+		  android:textColor="#000000"
+          android:textSize="20sp"
+          android:text="@string/puzzle_received" />
+
+        <FrameLayout
+            android:id="@+id/fl_puzzle_part"
+            android:layout_width="0dp"
+            android:layout_weight="4"
+            android:layout_height="match_parent">
+
+            <com.stealth.util.ImageViewSlice
+                android:id="@+id/iv_puzzle_part"
+                android:background="@color/transparent"
+                android:layout_marginLeft="10dp"
+                android:layout_width="50dp"
+                android:layout_height="28dp"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:gravity="center" />
+
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_width="50dp"
+                android:layout_height="28dp"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:src="@drawable/card_frame"
+                />
+        </FrameLayout>
+
+    </LinearLayout>
+      <LinearLayout
+          android:layout_weight="9"
+          android:weightSum="10"
+          android:layout_width="match_parent"
+          android:layout_height="0dp" >
+
+
+          <Button
+              android:id="@+id/btn_puzzle"
+              android:layout_weight="10"
+              android:layout_width="0dp"
+              android:layout_marginLeft ="15dp"
+              android:layout_marginRight ="15dp"
+              android:background="@drawable/bottom_menu_button"
+              android:layout_height="match_parent"
+		      android:textColor="#ffffff"
+              android:textSize="20sp"
+              android:onClick="btn_puzzle_pressed"
+              android:text="@string/puzzle_go" />
+      </LinearLayout>
+</LinearLayout>

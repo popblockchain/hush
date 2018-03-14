@@ -1,0 +1,7 @@
+#Thu Oct 06 15:07:04 GMT 2016
+base.0=C\:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\transforms\\dex\\lite\\debug\\folders\\1000\\10\\instant-run_2ae687a8c7f41b5e97ca53eb9895d2fe13cf4037
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\transforms\\dex\\lite\\debug\\folders\\1000\\10\\instant-run-bootstrap_5afbe7e54b750d44ac6d3e5165d09969cf312da9\\classes.dex
+base.1=C\:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\transforms\\dex\\lite\\debug\\folders\\1000\\10\\instant-run-bootstrap_5afbe7e54b750d44ac6d3e5165d09969cf312da9
+file.0=C\:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\transforms\\dex\\lite\\debug\\folders\\1000\\10\\instant-run_2ae687a8c7f41b5e97ca53eb9895d2fe13cf4037\\classes.dex

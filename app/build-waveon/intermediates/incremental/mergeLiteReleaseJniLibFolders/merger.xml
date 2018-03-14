@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\kim\OneDrive\stealth\hush\app\src\main\jniLibs"/></dataSet><dataSet config="lite"><source path="C:\Users\kim\OneDrive\stealth\hush\app\src\lite\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Users\kim\OneDrive\stealth\hush\app\src\release\jniLibs"/></dataSet><dataSet config="liteRelease"><source path="C:\Users\kim\OneDrive\stealth\hush\app\src\liteRelease\jniLibs"/></dataSet></merger>

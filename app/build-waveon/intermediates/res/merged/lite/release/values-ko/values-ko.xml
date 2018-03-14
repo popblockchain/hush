@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CountryCodes">
+        <item>93,AF</item>
+        <item>355,AL</item>
+        <item>213,DZ</item>
+        <item>376,AD</item>
+        <item>244,AO</item>
+        <item>672,AQ</item>
+        <item>54,AR</item>
+        <item>374,AM</item>
+        <item>297,AW</item>
+        <item>61,AU</item>
+        <item>43,AT</item>
+        <item>994,AZ</item>
+        <item>973,BH</item>
+        <item>880,BD</item>
+        <item>375,BY</item>
+        <item>32,BE</item>
+        <item>501,BZ</item>
+        <item>229,BJ</item>
+        <item>975,BT</item>
+        <item>591,BO</item>
+        <item>387,BA</item>
+        <item>267,BW</item>
+        <item>55,BR</item>
+        <item>673,BN</item>
+        <item>359,BG</item>
+        <item>226,BF</item>
+        <item>95,MM</item>
+        <item>257,BI</item>
+        <item>855,KH</item>
+        <item>237,CM</item>
+        <item>1,CA</item>
+        <item>238,CV</item>
+        <item>236,CF</item>
+        <item>235,TD</item>
+        <item>56,CL</item>
+        <item>86,CN</item>
+        <item>61,CX</item>
+        <item>61,CC</item>
+        <item>57,CO</item>
+        <item>269,KM</item>
+        <item>242,CG</item>
+        <item>243,CD</item>
+        <item>682,CK</item>
+        <item>506,CR</item>
+        <item>385,HR</item>
+        <item>53,CU</item>
+        <item>357,CY</item>
+        <item>420,CZ</item>
+        <item>45,DK</item>
+        <item>253,DJ</item>
+        <item>670,TL</item>
+        <item>593,EC</item>
+        <item>20,EG</item>
+        <item>503,SV</item>
+        <item>240,GQ</item>
+        <item>291,ER</item>
+        <item>372,EE</item>
+        <item>251,ET</item>
+        <item>500,FK</item>
+        <item>298,FO</item>
+        <item>679,FJ</item>
+        <item>358,FI</item>
+        <item>33,FR</item>
+        <item>689,PF</item>
+        <item>241,GA</item>
+        <item>220,GM</item>
+        <item>995,GE</item>
+        <item>49,DE</item>
+        <item>233,GH</item>
+        <item>350,GI</item>
+        <item>30,GR</item>
+        <item>299,GL</item>
+        <item>502,GT</item>
+        <item>224,GN</item>
+        <item>245,GW</item>
+        <item>592,GY</item>
+        <item>509,HT</item>
+        <item>504,HN</item>
+        <item>852,HK</item>
+        <item>36,HU</item>
+        <item>91,IN</item>
+        <item>62,ID</item>
+        <item>98,IR</item>
+        <item>964,IQ</item>
+        <item>353,IE</item>
+        <item>44,IM</item>
+        <item>972,IL</item>
+        <item>39,IT</item>
+        <item>225,CI</item>
+        <item>81,JP</item>
+        <item>962,JO</item>
+        <item>7,KZ</item>
+        <item>254,KE</item>
+        <item>686,KI</item>
+        <item>965,KW</item>
+        <item>996,KG</item>
+        <item>856,LA</item>
+        <item>371,LV</item>
+        <item>961,LB</item>
+        <item>266,LS</item>
+        <item>231,LR</item>
+        <item>218,LY</item>
+        <item>423,LI</item>
+        <item>370,LT</item>
+        <item>352,LU</item>
+        <item>853,MO</item>
+        <item>389,MK</item>
+        <item>261,MG</item>
+        <item>265,MW</item>
+        <item>60,MY</item>
+        <item>960,MV</item>
+        <item>223,ML</item>
+        <item>356,MT</item>
+        <item>692,MH</item>
+        <item>222,MR</item>
+        <item>230,MU</item>
+        <item>262,YT</item>
+        <item>52,MX</item>
+        <item>691,FM</item>
+        <item>373,MD</item>
+        <item>377,MC</item>
+        <item>976,MN</item>
+        <item>382,ME</item>
+        <item>212,MA</item>
+        <item>258,MZ</item>
+        <item>264,NA</item>
+        <item>674,NR</item>
+        <item>977,NP</item>
+        <item>31,NL</item>
+        <item>599,AN</item>
+        <item>687,NC</item>
+        <item>64,NZ</item>
+        <item>505,NI</item>
+        <item>227,NE</item>
+        <item>234,NG</item>
+        <item>683,NU</item>
+        <item>850,KP</item>
+        <item>47,NO</item>
+        <item>968,OM</item>
+        <item>92,PK</item>
+        <item>680,PW</item>
+        <item>507,PA</item>
+        <item>675,PG</item>
+        <item>595,PY</item>
+        <item>51,PE</item>
+        <item>63,PH</item>
+        <item>870,PN</item>
+        <item>48,PL</item>
+        <item>351,PT</item>
+        <item>1,PR</item>
+        <item>974,QA</item>
+        <item>40,RO</item>
+        <item>7,RU</item>
+        <item>250,RW</item>
+        <item>590,BL</item>
+        <item>685,WS</item>
+        <item>378,SM</item>
+        <item>239,ST</item>
+        <item>966,SA</item>
+        <item>221,SN</item>
+        <item>381,RS</item>
+        <item>248,SC</item>
+        <item>232,SL</item>
+        <item>65,SG</item>
+        <item>421,SK</item>
+        <item>386,SI</item>
+        <item>677,SB</item>
+        <item>252,SO</item>
+        <item>27,ZA</item>
+        <item>82,KR</item>
+        <item>34,ES</item>
+        <item>94,LK</item>
+        <item>290,SH</item>
+        <item>508,PM</item>
+        <item>249,SD</item>
+        <item>597,SR</item>
+        <item>268,SZ</item>
+        <item>46,SE</item>
+        <item>41,CH</item>
+        <item>963,SY</item>
+        <item>886,TW</item>
+        <item>992,TJ</item>
+        <item>255,TZ</item>
+        <item>66,TH</item>
+        <item>228,TG</item>
+        <item>690,TK</item>
+        <item>676,TO</item>
+        <item>216,TN</item>
+        <item>90,TR</item>
+        <item>993,TM</item>
+        <item>688,TV</item>
+        <item>971,AE</item>
+        <item>256,UG</item>
+        <item>44,GB</item>
+        <item>380,UA</item>
+        <item>598,UY</item>
+        <item>1,US</item>
+        <item>998,UZ</item>
+        <item>678,VU</item>
+        <item>39,VA</item>
+        <item>58,VE</item>
+        <item>84,VN</item>
+        <item>681,WF</item>
+        <item>967,YE</item>
+        <item>260,ZM</item>
+        <item>263,ZW</item>
+    </string-array>
+    <string-array name="time_out">
+
+        <item>1분</item>
+
+        <item>5분</item>
+
+        <item>10분</item>
+
+        <item>30분</item>
+
+        <item>1시간</item>
+
+        <item>2시간</item>
+
+        <item>4시간</item>
+
+        <item>8시간</item>
+
+        <item>12시간</item>
+
+        <item>24시간</item>
+        <item>7일간</item>
+
+    </string-array>
+    <string name="app_help">도움말</string>
+    <string name="app_help_first">허쉬!란?</string>
+    <string name="app_install">앱설치</string>
+    <string name="app_install_url">https://play.google.com/store/apps/details?id=com.stealth.hush.lite</string>
+    <string name="app_name">허쉬!</string>
+    <string name="app_name_decrypt">해독</string>
+    <string name="app_name_encrypt">암호화</string>
+    <string name="app_noti_content_lite">허쉬!로 암호화/해독이 가능합니다.</string>
+    <string name="app_noti_title_lite">허쉬!</string>
+    <string name="ask_no_use">이 사용자의 그룹 암호화/해독을 불가능하게 하시겠습니까?</string>
+    <string name="ask_use">이 사용자의 그룹 암호화/해독을 가능하게 하시겠습니까?</string>
+    <string name="banned_list">가입 금지 폰목록</string>
+    <string name="cancel">취소</string>
+    <string name="choose_default">2단계 : 기본 키보드 설정</string>
+    <string name="clip_image_type">Image</string>
+    <string name="clip_monitor_service">MyClips Clipboard Monitor</string>
+    <string name="clip_text_type">Text</string>
+    <string name="close">닫기</string>
+    <string name="common_key">공통키</string>
+    <string name="contacts_list">폰 주소록</string>
+    <string name="context_delete_clip">Delete</string>
+    <string name="context_email_clip">Email</string>
+    <string name="context_info">Info</string>
+    <string name="copy">복사</string>
+    <string name="create_new_clipboard">New clipboard</string>
+    <string name="decrypt_copy">해독시 문장 복사</string>
+    <string name="decrypt_copy_no">복사 불허</string>
+    <string name="decrypt_copy_yes">복사 허용</string>
+    <string name="decrypt_help">※ 암호화된 문장은 본인은 시간 제한 없이, 타인들은 24시간 이내에만 해독할 수 있습니다.</string>
+    <string name="decrypt_hours_me">본인의 암호화메시지는 언제든지 해독 가능합니다.</string>
+    <string name="decrypt_hours_other">남은 유효시간은 %s입니다.</string>
+    <string name="decrypt_key">해독 키</string>
+    <string name="decrypt_method">\n위 문장 해독 방법 : \n1) 허쉬앱 설치( %s )\n2)앱실행후 종료\n3)다시 이문장을 꾹 눌러 복사</string>
+    <string name="decrypt_method_help">친구에게 암호화메시지 전송시 다음과 같은 해독 방법을 추가해서 보낼 수 있습니다.\n친구가 허쉬앱 처음 사용시 추가하면 좋습니다.</string>
+    <string name="decrypt_method_warning">ON 선택시, 공통키로 암호화할 때 암호화 문장 뒤에 해독을 위한 설명문장이 부착됩니다. ON 하시겠습니까?</string>
+    <string name="decrypt_preparing">해독 준비중 ...</string>
+    <string name="decrypt_time_out">유효시간(발송후 24시간)이 경과하여 해독할 수 없습니다.</string>
+    <string name="decrypted_text">해독 문장</string>
+    <string name="delete_clipboard">Delete clipboard</string>
+    <string name="detail_list">%s 연락처 선택</string>
+    <string name="email_clipboard">Email clipboard</string>
+    <string name="encrypt">암호화</string>
+    <string name="encrypt_copy">암호화후 복사</string>
+    <string name="encrypt_down">암호화 ↓</string>
+    <string name="encrypt_go">암호화 화면 바로가기</string>
+    <string name="encrypt_help">※ 당신의 암호화 메시지는 타인에게는 24시간 내에만 해독 가능합니다.</string>
+    <string name="encrypt_key">암호화 키</string>
+    <string name="encrypt_method">암호화 방식</string>
+    <string name="encrypt_method_again">질문 그만</string>
+    <string name="encrypt_method_all">복사+키보드 방식 : 두 방식 모두 사용</string>
+    <string name="encrypt_method_all_title">복사+키보드 방식</string>
+    <string name="encrypt_method_copy">복사 방식 : 복사 또는 잘라내기시 암호화</string>
+    <string name="encrypt_method_copy_title">복사 방식</string>
+    <string name="encrypt_method_kbd">키보드 방식 : 허쉬! 키보드에서 암호화</string>
+    <string name="encrypt_method_kbd_ask">화면의 KBD > ENCRYPT 둥근 버튼을 눌러 키보드 암호화 방식을 ON하시면 좀더 편리하게 암호화를 이용하실 수 있습니다.</string>
+    <string name="encrypt_method_kbd_title">키보드 방식</string>
+    <string name="encrypt_method_no">아니오</string>
+    <string name="encrypt_method_recommend">암호화 방식 추천</string>
+    <string name="encrypt_method_select">암호화 방식 선택</string>
+    <string name="encrypt_method_yes">예</string>
+    <string name="encrypt_preparing">암호화 준비중 ...</string>
+    <string name="encrypt_share">암호화후 공유</string>
+    <string name="encrypt_when_copy">복사시 암호화</string>
+    <string name="encrypt_when_guide_off">복사시 암호화 OFF. 복사된 문장을 암호화하려면 허쉬! 알림을 터치하세요.</string>
+    <string name="encrypt_when_guide_on">복사시 암호화 ON. 문장 복사시 암호화 화면이 보여집니다.</string>
+    <string name="encrypt_window">암호화 화면</string>
+    <string name="err_empty">암호화 키 유효기간이 만료된 메시지는 해독이 불가능합니다.</string>
+    <string name="err_empty_user">이전의 보관키로 암호화된 메시지는 해독이 불가능합니다.</string>
+    <string name="err_group_otg_must">이 그룹의 메시지를 암호화나 해독하기 위하여는 OTG 가드가 장착되어야 합니다.</string>
+    <string name="err_invalid_otg">OTG가드가 장착되지 않았거나 잘못된 OTG 가드입니다.</string>
+    <string name="err_other_group">다른 그룹의 메시지는 암호화나 해독이 불가능합니다.</string>
+    <string name="err_other_user">다른 사람의 보관키로 암호화된 메시지는 해독이 불가능합니다.</string>
+    <string name="err_password_wrong">비밀번호 오류. 오류 회수 = </string>
+    <string name="err_phone_lost">이 폰은 분실 신고된 폰입니다.</string>
+    <string name="err_title">오류 발생!</string>
+    <string name="finished">축하합니다! 키보드 설정을 완료하셨습니다. \n\nSNS에서 허쉬! 사용과 메시지보안이 가능하게 되었습니다.</string>
+    <string name="first_kbd_ask">\'키보드에서 암호화\' (둥근) 버튼을 눌러 보세요. 키보드에서 직접 암호화하실 수 있습니다. </string>
+    <string name="first_login">사용자 로그인</string>
+    <string name="first_login_ask">이미 허쉬 앱 들 중 하나의 회원이십니까?</string>
+    <string name="first_regist">사용자 등록</string>
+    <string name="first_regist_ask">처음으로 허쉬관련 앱을 사용하십니까?</string>
+    <string name="first_welcome">환영합니다!</string>
+    <string name="general_category">General</string>
+    <string name="gettingNotAssigned">미지정 연락처 준비중 ...</string>
+    <string name="group_delete">그룹 삭제</string>
+    <string name="group_delete_ask">그룹을 삭제하시면 그룹의 회원정보등 그룹관련 모든 정보가 서버에서 삭제됩니다. 삭제하시겠습니까?</string>
+    <string name="group_exist">그룹 등록 실패! 같은 이름의 그룹이 이미 있습니다.</string>
+    <string name="group_id">그룹명</string>
+    <string name="group_id_hint">2~10 한글/영문/숫자</string>
+    <string name="group_list">그룹목록</string>
+    <string name="group_modify">그룹 수정</string>
+    <string name="group_modify_ask">화면의 내용대로 그룹 정보를 수정하시겠습니까?</string>
+    <string name="group_need_level2">스페이드(♤) 레벨 그룹은 %d개를 무상으로 만들 수 있습니다.\n\n</string>
+    <string name="group_need_rcnt_1">%s 레벨의 그룹을 만들기 위해서는</string>
+    <string name="group_need_rcnt_2">%d명의 친구를 더 추천해야 합니다. \n\n암호화된 메시지를 친구에게 보내고 그 친구가 허쉬!를 설치하여 메시지를 해독하면, 추천인으로 자동등록됩니다.</string>
+    <string name="group_no">공통키로 암호화</string>
+    <string name="group_not_allowed">초보 등급은 그룹을 만들 수 없습니다.</string>
+    <string name="group_not_modified">그룹정보 변경된 것이 없습니다.</string>
+    <string name="group_pw">그룹 암호</string>
+    <string name="group_pw_hint">5~15 영문/숫자</string>
+    <string name="group_pw_over">3번 이상 틀린 암호 입력!</string>
+    <string name="group_pw_wrong">암호가 다릅니다.</string>
+    <string name="group_regist">새그룹 등록</string>
+    <string name="group_regist_ask">화면의 내용대로 그룹을 등록하시겠습니까?</string>
+    <string name="group_regist_fail">그룹 등록 실패!</string>
+    <string name="group_regist_help">그룹 키로 암호화후 메시지를 친구들에게 전송할 때 그룹 암호를 알려 주면 친구는 그룹가입 및  메시지 해독을 할 수 있습니다.</string>
+    <string name="group_regist_idch_err">그룹명은 2~10 한글/영문/숫자 이어야 합니다.</string>
+    <string name="group_regist_pwch_err">그룹 암호는 5-15 영문/숫자 이어야 합니다.</string>
+    <string name="group_regist_success">그룹 등록 성공!</string>
+    <string name="group_regist_user_name_err">등록자명은 최소 2글자 이상이어야 합니다.</string>
+    <string name="group_register_name">그룹 등록자명</string>
+    <string name="group_select">그룹 선택</string>
+    <string name="group_select_button">암호화키:%s</string>
+    <string name="hours">시간</string>
+    <string name="kbd_setting">허쉬! 키보드 설정</string>
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+    <string name="label_subtype_en_GB">English (GB)</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="list_all_clipboards">List all clipboards</string>
+    <string name="lock_help">현재 잠금 상태입니다. 상단바에 있는 자물쇠를 터치하여 잠금을 해제해 보십시오.</string>
+    <string name="lock_state_locked">잠금상태. 암호화나 해독은 불가능합니다.</string>
+    <string name="login">로그인</string>
+    <string name="login_password_err">패스워드가 틀립니다! 다시 입력하십시오.</string>
+    <string name="login_user_fail">로그인 실패!</string>
+    <string name="login_user_success">로그인 성공!</string>
+    <string name="main_content_copy">허쉬!-프로는 문장의 일부분 또는 전체를 복사할 때 암호화나 해독하는 방법을 제공합니다. \n\n암호화 과정 : \n문장 선택 -> 잘라내기 -> 팝업(허쉬!-프로 화면) -> 암호화후 복사 -> 암호화된 문장 잘라낸 위치에 붙여넣기 \n\n해독 과정 : \n암호화된 문장 선택 -> 복사 -> 해독된 문장 팝업</string>
+    <string name="main_content_kbd">허쉬 키보드 설정은 다음의 두가지 단계에 의해 이루어집니다. \n\n단계 도중에 안드로이드 OS에서 허쉬 키보드가 신용카드 번호등 개인 정보를 수집할 수 있다는 문구가 나옵니다. \n\n그러나 허쉬 키보드는 키보드에 입력하는 어떤 정보도 수집하지 않고 있으므로 안심하고 사용하시기 바랍니다.</string>
+    <string name="main_title">허쉬! 키보드</string>
+    <string name="member_delete_ask">이 멤버(%s)를 삭제하여도 좋습니까?</string>
+    <string name="member_help"/>
+    <string name="member_invite_ask">그룹(등록자) %s로부터의 초대가 있습니다. 초대에 동의하시면 이 그룹 메시지를 암호화 또는 해독할 수 있습니다.\n\n초대에 동의하시겠습니까?</string>
+    <string name="member_join">그룹 가입</string>
+    <string name="member_join_ask">그룹 암호를 정확히 입력하시면, 그룹의 암호화 메시지를 해독할 수 있습니다.</string>
+    <string name="member_join_fail">그룹 가입 실패</string>
+    <string name="member_join_over">암호를 세 번 이상 틀리셨습니다.</string>
+    <string name="member_join_success">그룹에 가입되었습니다.</string>
+    <string name="member_list">멤버목록</string>
+    <string name="member_make">멤버 등록</string>
+    <string name="member_make_file">파일에서  등록</string>
+    <string name="member_make_file_help">파일은 csv(excel에서 csv로 저장) 또는 text파일로써 이름,전화번호 형식(,로 분리)이어야 합니다.</string>
+    <string name="member_make_help">이 화면에서 여러명을 계속하여 등록할 수 있습니다.</string>
+    <string name="member_make_wrong">입력이 잘못 되었습니다.</string>
+    <string name="member_nm">멤버 이름</string>
+    <string name="member_no">멤버 휴대폰 번호</string>
+    <string name="member_op_ask">이 멤버에 대한 동작은?</string>
+    <string name="member_op_delete">삭제</string>
+    <string name="member_op_use_O">암호화/해독 허용</string>
+    <string name="member_op_use_X">암호화/해독 불허</string>
+    <string name="member_regist">멤버등록</string>
+    <string name="member_regist_ask">그룹 등록 성공! 그룹 멤버 목록을 사전 등록하시면 멤버들이 앱 설치/실행시 자동으로 그룹이 구성됩니다. 지금 멤버 등록을 하시겠습니까?</string>
+    <string name="member_regist_help">그룹 멤버의 이름과 전화번호를 미리 등록한 뒤, 해당 멤버가 허쉬! 앱 설치시 그룹 가입을 묻게되는 간단한 방법입니다. \n\n한 명씩 수동입력하는 방법, 미리 등록된 주소록 텍스트 파일(한 줄에 이름,전화번호)로 대량입력하는 방법, 폰의 연락처에서 선택하는 방법이 있습니다.</string>
+    <string name="member_regist_help1">파일로 입력</string>
+    <string name="member_regist_help2">수동 입력</string>
+    <string name="member_regist_help3">폰 연락처 선택</string>
+    <string name="member_registering">멤버 등록중 ...</string>
+    <string name="member_selected_ask">%d명의 연락처를 선택하셨습니다. 그룹의 멤버 목록으로 등록하시겠습니까?</string>
+    <string name="member_state_0">앱 미설치</string>
+    <string name="member_state_1">가입</string>
+    <string name="member_state_2">거절</string>
+    <string name="member_sub_success">멤버등록 성공!</string>
+    <string name="member_view">멤버 목록 조회</string>
+    <string name="member_view_all">모든 멤버 허용</string>
+    <string name="member_view_mgr">그룹 관리자만</string>
+    <string name="member_view_right">멤버 목록 조회 권한</string>
+    <string name="minutes">분</string>
+    <string name="need_kbd_setting">키보드 암호화를 ON하시려면 스마트폰 설정을 바꾸셔야합니다.</string>
+    <string name="need_reset_default">키보드 암호화를 OFF하시려면 스마트폰 설정에서 다른 키보드를 선택하셔야 합니다.</string>
+    <string name="next">다음 > </string>
+    <string name="no">아니오</string>
+    <string name="not_assigned">미지정</string>
+    <string name="ok">확인</string>
+    <string name="otg_help_content">OTG 가드란 보안을 강화하기 위하여 허쉬!SW사에서 특수하게 제작한 스마트폰 USB OTG 장치를 말합니다. \n\nOTG 가드 사용자로 설정되면, OTG가드가 폰에 장치되어 있지 않으면 암호화된 메시지 해독은 불가능합니다. \n\n따라서 폰을 분실시에도 습득한 사용자가 당신의 폰에서 비밀 메시지를 해독할 수 없게 됩니다.</string>
+    <string name="otg_help_title">OTG 가드란?</string>
+    <string name="otg_must_no">개인별 자유</string>
+    <string name="otg_must_yes">필수 사용</string>
+    <string name="otg_use">OTG 가드 사용(☞)</string>
+    <string name="password_char_err">비밀번호는 영/숫자이어야 합니다.</string>
+    <string name="password_different">입력한 비밀번호 두개가 서로 다릅니다. 다시 입력해 주시기 바랍니다.</string>
+    <string name="password_explain_decrypt">비밀번호를 정확히 입력하시면 해독된 문장이 보여질 수 있습니다.</string>
+    <string name="password_explain_encrypt">비밀번호 입력시, 해독할 때에도 똑같은 비밀번호를 입력하여야만 해독이 됩니다.\n비밀번호 분실시 찾을 수 없으므로 주의하시기 바랍니다.</string>
+    <string name="password_explain_unlock">회원 가입시 입력한 패스워드를 입력하시면 잠금이 풀립니다.</string>
+    <string name="password_hint">비밀번호: 4 ~ 15 영숫자 입력</string>
+    <string name="password_hint2">비밀번호 다시 입력</string>
+    <string name="password_length_err">비밀번호는 4글자 ~ 15글자의 영/숫자이어야 합니다.</string>
+    <string name="password_title">개인보관용 비밀번호</string>
+    <string name="password_try_over">비밀번호 세 번 잘못 입력으로 5분간 동작이 중지됩니다.</string>
+    <string name="phone_found">폰 되찾음(암호/해독 가능화)</string>
+    <string name="phone_group_list">폰 그룹 목록</string>
+    <string name="phone_lost">폰 분실 처리(암호/해독 불능화)</string>
+    <string name="phone_member_list">폰 멤버 목록</string>
+    <string name="phone_number_help">이 폰의 번호 입력후 -확인-을 누르시면 SMS 메시지 기능을 이용하여 이 폰 자체로 인증메시지를 발송합니다.\n따라서 폰의 SMS 발송 건수가 1건 줄어들 수 있습니다.</string>
+    <string name="phone_number_hint">폰 전화 번호 입력</string>
+    <string name="phone_number_sent">인증메시지가 발송되었습니다. 최대 2분까지 해당 메시지가 도착하기까지 기다려 주시기 바랍니다.</string>
+    <string name="phone_number_title">폰 번호 인증</string>
+    <string name="puzzle_allow_success">%s 차단 해제됨.</string>
+    <string name="puzzle_ask_hp">HP(Hush Power) 1개를 사용하여 터치한 조각을 맞출 수 있습니다. 사용하시겠습니까?</string>
+    <string name="puzzle_block">차단</string>
+    <string name="puzzle_block_help">차단시 상대방과 당신은 서로의 암호화 메시지를 해독할 수 없습니다.</string>
+    <string name="puzzle_block_success">%s 차단됨.</string>
+    <string name="puzzle_exit_ask">조각을 다 맞춘뒤 이미지 터치시 동영상을 볼 수 있습니다. 동영상을 보지 않고 이 화면을 나가시겠습니까?</string>
+    <string name="puzzle_go">퍼즐 게임 고고!</string>
+    <string name="puzzle_hp">, HP=</string>
+    <string name="puzzle_item_block">차단</string>
+    <string name="puzzle_item_level">레벨</string>
+    <string name="puzzle_item_name">이름</string>
+    <string name="puzzle_item_parts">조각수</string>
+    <string name="puzzle_level">, 레벨=</string>
+    <string name="puzzle_level_10">★</string>
+    <string name="puzzle_play_warning">와이파이가 연결되지 않은 상태인데 동영상을 보시겠습니까?</string>
+    <string name="puzzle_rcvd">받은조각= </string>
+    <string name="puzzle_received">받은 퍼즐 그림 조각 = </string>
+    <string name="puzzle_remain_no">HP를 모두 사용했습니다. 암호화 메시지를 친구에게 보낸 후 친구가 허쉬앱 설치/해독시 당신과 친구는 20HP씩 획득할 수 있습니다.</string>
+    <string name="puzzle_result_dup">, 결과=중복</string>
+    <string name="puzzle_result_ok">, 결과=OK</string>
+    <string name="puzzle_success">축하합니다! 조각을 다 맞추셔서 다음부터 레벨이 한 단계 올라갑니다!</string>
+    <string name="puzzle_title">퍼즐 게임</string>
+    <string name="puzzle_view_prev">승급한 레벨 초기상태입니다. 전 레벨의 완료상태를 보시겠습니까?</string>
+    <string name="recommend_cnt">나의 추천수=%d</string>
+    <string name="reg_user_fail">사용자 등록 실패! 나중에 다시 시도하십시오.</string>
+    <string name="reg_user_success">사용자로 등록되었습니다!</string>
+    <string name="regist">등록</string>
+    <string name="regist_birth_year">생년</string>
+    <string name="regist_etc">기타 등록</string>
+    <string name="regist_etc_help">본 앱은 성별과 나이에 맞는 이벤트와 게임을 제공하고 있습니다. \n또한 본 앱에는 성별과 나이에 맞는 광고도 제공될 수 있습니다.</string>
+    <string name="regist_female">여자</string>
+    <string name="regist_finish">등록 완료</string>
+    <string name="regist_male">남자</string>
+    <string name="regist_name">이름 등록</string>
+    <string name="regist_name_ask">퍼즐 게임을 하기 위해서는 이름과 몇가지 정보를 입력해야 합니다.</string>
+    <string name="regist_name_help">본 앱은 암호화 사용과 동시에 재미있게 사용할 수 있도록 게임과 소정의 상품들이 지급되는 이벤트들을 제공합니다. 이 때 친구들에게 보여질 수 있는 이름을 입력 받습니다. \n이름을 다르게 입력시 친구들로부터 비밀 메시지 해독이 금지당할 수 있습니다. \n이름은 암호화되어 서버에 저장됩니다.</string>
+    <string name="regist_pass">비밀번호 등록</string>
+    <string name="regist_pass_help">본 앱은 암호화 사용후 일정 시간 경과시 비밀번호를 입력받도록 하여 혹시 일어날지 모르는 타인의 사용을 방지하는 기능을 제공합니다. \n비밀번호는 암호화되어 서버에 저장됩니다.</string>
+    <string name="regist_phone">전화 번호 등록</string>
+    <string name="regist_phone_help">본 앱은 문장을 암호화하여 SNS를 통하여 전송하는 수단을 제공합니다.\n본인임을 증명하기 위하여 스마트폰의 전화번호를 입력바랍니다.\n전화번호는 암호화되어 서버에 저장됩니다.</string>
+    <string name="reload_ask">폰의 연락처 목록을 다시 가져오시겠습니까?</string>
+    <string name="reloading">폰 연락처 읽어오는 중 ...</string>
+    <string name="sdcard_fail">OTG 설치 실패!</string>
+    <string name="sdcard_finish_warning">안전한 OTG 유효기간이 만료되었습니다. 보안을 위하여 암호화나 해독을 할 수 없습니다.</string>
+    <string name="sdcard_help">※ OTG 사용으로 설정시 사용기한은 30일로 설정됩니다.</string>
+    <string name="sdcard_no_use">OTG 사용 안함</string>
+    <string name="sdcard_not_attached">OTG를 먼저 장착하십시오.</string>
+    <string name="sdcard_success">OTG 설치 성공!</string>
+    <string name="sdcard_use">OTG 사용</string>
+    <string name="search">검색</string>
+    <string name="searchNameOrPhone">이름/폰번호 찾기</string>
+    <string name="select_all">전체 선택</string>
+    <string name="select_first">먼저 1단계 부터 처리하여야 합니다.</string>
+    <string name="select_key">암호화키 선택</string>
+    <string name="select_key_help">\'암호화키 선택\'을 눌러 암호화 키를 선택하십시오.</string>
+    <string name="select_keyboard">1단계 : 키보드 선택</string>
+    <string name="select_language">Select input languages</string>
+    <string name="setting_user_ask">폰번호 %s에 대해 사용자 설정을 하시겠습니까?</string>
+    <string name="setting_user_mode">사용자모드 설정</string>
+    <string name="settings">설정</string>
+    <string name="share">공유</string>
+    <string name="share_app">앱 공유하기</string>
+    <string name="share_ask_message">다음과 같은 메시지로 공유됩니다. 공유하시겠습니까?</string>
+    <string name="share_attach_no">첨가하지 마십시오.</string>
+    <string name="share_attach_ok">첨가해도 좋습니다.</string>
+    <string name="share_help">친구에게 암호화 메시지 보낼 때 다음과 같은 설치 링크 및 간단한 설명이 암호문 뒤에 첨가될 수 있습니다.</string>
+    <string name="speak_now">말하세요</string>
+    <string name="sub_app_name">MyClips - All Clipboards</string>
+    <string name="text_encrypted">암호화 문장</string>
+    <string name="text_orig">원본 문장(수정할 수 있습니다)</string>
+    <string name="time_out_default">5분</string>
+    <string name="time_out_help">자동 잠금 시간 경과 후 앱을 사용하려면 사용자는 다시 비밀번호를 입력하여야 합니다.</string>
+    <string name="time_out_set">자동잠금 시간은 %s으로 설정되었습니다.</string>
+    <string name="time_out_title">자동 잠금 시간 설정</string>
+    <string name="unfinished_1">키보드 설정(1단계)이 완료 되지 않았습니다(복사시 암호화/복호화는 가능). 그대로 종료하시겠습니까?</string>
+    <string name="unfinished_1_cancel">키보드 설정을 하겠습니다.</string>
+    <string name="unfinished_1_ok">네,종료합니다.</string>
+    <string name="unfinished_2">기본 키보드 설정(2단계)이 완료되지 않았습니다(복사시 암호화/복호화는 가능). 그대로 종료하시겠습니까?</string>
+    <string name="unfinished_2_cancel">기본 키보드 설정을 하겠습니다.</string>
+    <string name="unfinished_2_ok">네,종료합니다.</string>
+    <string name="upgrade">업그레이드</string>
+    <string name="upgrade_must">허쉬! 앱을 업그레이드 하셔야 합니다!</string>
+    <string name="use_allow">사용 O</string>
+    <string name="use_limit">사용 X</string>
+    <string name="use_limit_help">그룹에서 사용이 제한된 사용자들은 해당 그룹의 메시지들을 암호화하거나 해독할 수 었습니다.</string>
+    <string name="use_limit_reg">사용제한 회원 등록</string>
+    <string name="user_already">폰 번호는 이미 등록되어 있습니다. 폰 번호와 비밀번호로 로그인하여 사용하실 수 있습니다.</string>
+    <string name="user_key">보관키</string>
+    <string name="user_key_ask">보관키를 변경하시겠습니까?</string>
+    <string name="user_key_change">보관키 변경</string>
+    <string name="user_key_changed">보관키가 변경되었습니다. 이전의 보관키로 암호화된 문장은 해독되지 않습니다!</string>
+    <string name="user_key_detail">보관키(개인보관용)</string>
+    <string name="user_key_warning">보관키 변경시, 전의 보관키로 암호화된 문장들은 영원히 해독 불가능하게 됩니다.</string>
+    <string name="user_name">사용자명</string>
+    <string name="user_name_ask">실명을 입력해 주세요.</string>
+    <string name="user_name_ask2">입력하신 이름은 그룹의 멤버 목록에 보여집니다. 실명을 입력해 주십시오.</string>
+    <string name="user_name_hint">실명 입력</string>
+    <string name="user_name_title">허쉬! 사용자 등록</string>
+    <string name="user_phone_no">사용자 폰번</string>
+    <string name="user_phone_no_hint">xxx-xxxx-xxxx형태</string>
+    <string name="user_regist">사용자 등록</string>
+    <string name="user_regist_2ch_err">이름은 2자 이상 입력하여야 합니다.</string>
+    <string name="user_regist_fail">사용자 등록 실패!</string>
+    <string name="user_regist_success">사용자 등록 성공!</string>
+    <string name="voice_input">음성 입력</string>
+    <string name="voice_input_err">오류 발생!</string>
+    <string name="voice_input_finish">종료</string>
+    <string name="voice_input_try_again">음성입력 재시도</string>
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;>_+=|"</string>
+    <string name="yes">예</string>
+</resources>

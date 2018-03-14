@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/backgnd"
+    android:weightSum="100"
+    >
+         
+      <TextView
+          android:id="@+id/textView1"
+          android:layout_weight="2"
+          android:layout_width="wrap_content"
+          android:layout_height="0dp"
+          android:text=""
+          android:textAppearance="?android:attr/textAppearanceSmall" />
+
+      <TextView
+          android:scrollbars = "vertical"
+          android:id="@+id/textContent"
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_weight="69"
+		  android:textColor="#000000"
+          android:textSize="20sp" 
+          android:textStyle="bold" 
+          android:autoLink="all"
+          android:layout_marginLeft="20dp"
+          android:layout_marginRight="20dp"
+          android:text="This is textContent" />
+      
+      <!-- ImageView
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_weight="17"
+          android:onClick = "ad1_pressed"
+          android:src="@drawable/ad1" / -->
+
+
+          <Button
+              android:id="@+id/select_keyboard"
+              android:layout_weight="12"
+              android:layout_width="match_parent"
+              android:layout_height="0dp"
+              android:background="@drawable/bottom_menu_button"
+              android:textColor="#ffffff"
+              android:textSize="20sp" 
+              android:textStyle="bold"
+              android:layout_marginLeft="20dp"
+              android:layout_marginRight="20dp"
+              android:text="select keyboard" />
+
+          <TextView
+          android:id="@+id/textView2"
+          android:layout_weight="3"
+          android:layout_width="wrap_content"
+          android:layout_height="0dp"
+          android:text=""
+          android:textAppearance="?android:attr/textAppearanceSmall" />
+          
+          <Button
+              android:id="@+id/choose_default"
+              android:layout_weight="12"
+              android:layout_width="match_parent"
+              android:layout_height="0dp"
+              android:background="@drawable/bottom_menu_button"
+              android:textColor="#ffffff"
+              android:textSize="20sp" 
+            android:textStyle="bold"
+              android:layout_marginLeft="20dp"
+              android:layout_marginRight="20dp"
+              android:text="choose default" />
+
+</LinearLayout>

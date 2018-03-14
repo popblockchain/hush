@@ -1,0 +1,97 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LLPhoneNumber"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="0dp"
+    android:weightSum="100"
+    android:background="@drawable/backgnd"
+     >
+  
+  <!-- title  -->
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/time_out_title"
+        android:textSize="18sp"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+
+        ﻿<Spinner
+        android:id="@+id/spinner_time_out"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+    />
+
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="30"
+            android:layout_gravity="start"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="left|center_vertical"
+            android:text="@string/time_out_help"
+        android:textSize="15sp"
+            android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <LinearLayout
+          android:layout_weight="10"
+          android:weightSum="10" 
+          android:layout_width="match_parent"
+          android:layout_height="0dp" >
+    
+         <Button
+	           android:id="@+id/btn_ok"
+              android:layout_width="0dp"
+              android:layout_height="match_parent"
+              android:layout_weight="10"
+                android:layout_marginTop ="2dp" 
+                android:layout_marginBottom ="2dp" 
+                android:layout_marginLeft ="10dp"
+                android:layout_marginRight ="10dp"
+              android:background="@drawable/bottom_menu_button"
+              android:onClick="ok_pressed"
+             android:textColor="#ffffff"
+                android:textSize="18sp"
+	           android:text="@string/ok" />
+        
+
+    </LinearLayout>	   
+
+</LinearLayout>

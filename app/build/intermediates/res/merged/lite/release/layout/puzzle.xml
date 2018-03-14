@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="vertical"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="@drawable/backgnd"
+         android:weightSum="100"
+         android:padding="0dp"
+         >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7"
+        android:orientation="horizontal"
+        android:weightSum="20"
+        >
+
+            <TextView
+                android:id="@+id/tv_puzzle_text"
+                android:layout_width="0dp"
+                android:layout_weight="16"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+
+
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:text=""
+                />
+            <FrameLayout
+                android:id="@+id/fl_puzzle_part"
+                android:layout_width="60dp"
+                android:layout_height="33dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="10dp"
+                android:scaleType="fitXY"
+                android:visibility="invisible"
+                android:layout_gravity="right|center_vertical"
+                android:gravity="right|center_vertical"
+                >
+            <com.stealth.util.ImageViewSlice
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/iv_puzzle_part"
+                android:background="@color/transparent"
+                />
+           <ImageView
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:src = "@drawable/card_frame"
+               />
+            </FrameLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:padding="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:layout_weight="50">
+
+        <WebView
+            android:id="@+id/wv_puzzle"
+            android:layout_width="320dp"
+            android:layout_height="227dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:gravity="center"
+            >
+        </WebView>
+
+        <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="227dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+
+            <ImageView
+                android:id="@+id/iv_youtube_top"
+                android:layout_width="match_parent"
+                android:layout_height="47dp"
+                android:scaleType="fitXY"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:src="@drawable/puzzle_top"
+                />
+
+        <ImageView
+            android:id="@+id/iv_puzzle"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:gravity="center"
+             />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="227dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:gravity="bottom|center_horizontal"
+            >
+
+        <GridView
+            android:id="@+id/gv_puzzle"
+            android:layout_width="320dp"
+            android:layout_height="180dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="bottom"
+            android:gravity="bottom|center_horizontal"
+            />
+        </LinearLayout>
+    </FrameLayout>
+
+
+    <ListView
+         android:id="@id/android:list"
+         android:layout_width="fill_parent"
+         android:layout_height="0dp"
+         android:layout_weight="30"
+         android:choiceMode="singleChoice"
+         android:clickable="true"
+         android:drawSelectorOnTop="true" >
+     </ListView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        >
+
+        <Button
+            android:id="@+id/btn_puzzle_reg"
+            android:layout_gravity="right|center_vertical"
+            android:layout_width="160dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight ="60dp"
+            android:background="@drawable/bottom_menu_button"
+            android:onClick="puzzle_reg_pressed"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
+            android:text="@string/puzzle_reg" />
+
+        <Button
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="10dp"
+            android:id="@+id/btn_refresh"
+            android:background="@drawable/refresh"
+            android:onClick = "refresh_pressed"
+
+            />
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tv_block_help"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="14dp"
+        android:text="@string/puzzle_help"
+        />
+
+ </LinearLayout>
+

@@ -1,0 +1,225 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.stealth.hushkbd"
+    android:installLocation="internalOnly"
+   >
+    
+    <!-- 2016.01.05 modified -->
+    <!-- 2016.01.11 modified -->
+    
+    <!-- 
+        version 0.1.0 ->  
+        version 0.3.0 android 6.0 (target 23) 
+     -->
+    
+    <!-- uses-sdk android:minSdkVersion="13" android:targetSdkVersion="23" / -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_CLIPS" />
+    <uses-permission android:name="android.permission.READ_CLIPS" />
+    <uses-permission android:name="android.permission.WRITE_CLIPS" />
+    <!-- uses-permission android:name="android.permission.READ_CONTACTS" / -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <!-- uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.provider.Telephony.SMS_RECEIVED" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/ -->
+
+
+    <application android:label="@string/app_name"
+        android:icon="@drawable/icon"
+        >
+        <service android:name="hush_kbd"
+                android:permission="android.permission.BIND_INPUT_METHOD">
+            <intent-filter>
+                <action android:name="android.view.InputMethod" />
+            </intent-filter>
+            <meta-data android:name="android.view.im" android:resource="@xml/method" />
+        </service>
+
+        <activity android:name="com.stealth.service.EnvSettings"
+                  android:launchMode="singleTask"
+            android:theme="@style/Theme.Transparent"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+                </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.stealth.service.ContactsList"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent" 
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="adjustPan"
+            android:label="@string/contacts_list" >
+        </activity>
+        <activity
+            android:name="com.stealth.service.DetailList"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme"
+            android:label="@string/detail_list" >
+        </activity>
+        <activity android:name="com.stealth.service.PopupEncrypt"
+            android:windowSoftInputMode="adjustPan"
+                  android:launchMode="singleTask"
+                  android:theme="@style/Theme.Transparent" 
+                  android:label="@string/app_name">
+        </activity>
+        <activity android:name="com.stealth.service.PopupDecrypt" 
+                  android:launchMode="singleTask" 
+                  android:theme="@style/Theme.Transparent" 
+                  android:label="@string/app_name">
+        </activity>
+
+
+        <activity android:name="com.stealth.service.Help"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_help">
+        </activity>
+
+        <activity android:name="com.stealth.service.Puzzle"
+            android:launchMode="singleTask"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.AskLogin"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.Login"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.ChangePass"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.RegistPhone"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.RegistName"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.PuzzleReg"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustPan"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.MyInfo"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustPan"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+
+        <activity android:name="com.stealth.service.RegistEtc"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.RegistPass"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.TimeOut"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity android:name="com.stealth.service.KbdSetting"
+            android:launchMode="singleTask"
+            android:label="@string/kbd_setting">
+        </activity>
+
+        <activity android:name="com.stealth.service.ShareSetting"
+            android:launchMode="singleTask"
+            android:label="@string/share_app">
+        </activity>
+
+        <activity android:name="com.stealth.service.GroupList"
+                  android:launchMode="singleTask"
+                  android:theme="@style/Theme"
+                  android:label="@string/group_list">
+        </activity>
+        
+        <activity android:name="com.stealth.service.GroupSelect" 
+                  android:launchMode="singleTop"
+                  android:theme="@style/Theme.Transparent1"
+                  android:label="@string/group_select">
+        </activity>
+
+
+        <activity android:name="com.stealth.service.VoiceInput"
+            android:launchMode="singleTop"
+            android:theme="@style/Theme.Transparent"
+            android:label="@string/voice_input">
+        </activity>
+
+        <activity android:name="com.stealth.service.MemberList"
+                  android:windowSoftInputMode="adjustPan"
+                  android:launchMode="singleTask"
+                  android:theme="@style/Theme"
+                  android:label="@string/member_list">
+        </activity>
+        
+        <activity
+            android:name="com.stealth.service.GroupReg"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme"
+            android:label="@string/group_regist" >
+        </activity>
+
+        <activity
+            android:name="com.stealth.service.PhoneNumber"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme"
+            android:label="@string/phone_number_title" >
+        </activity>
+
+        <activity
+            android:name="com.stealth.service.PasswordAsk"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent1"
+            android:label="@string/password_title" >
+        </activity>
+
+        <receiver android:name="com.stealth.service.ClipboardMonitorStarter">
+	    	<intent-filter>
+	    		<action android:name="android.intent.action.BOOT_COMPLETED" />
+	    	</intent-filter>
+	    </receiver>
+		<service android:name="com.stealth.service.ClipboardMonitor"></service>
+        
+    </application>
+</manifest>

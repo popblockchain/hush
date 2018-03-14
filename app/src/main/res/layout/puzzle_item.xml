@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:id="@+id/ll_friends"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:weightSum = "20"
+     android:orientation="horizontal">
+
+   <TextView android:id="@+id/tv_name"
+             android:layout_weight="10"
+             android:layout_width="0dp" 
+             android:layout_height="wrap_content" 
+             android:layout_marginLeft="3dp"
+       android:layout_gravity="center"
+             android:gravity="center"
+             android:textColor="@color/black"
+             android:textSize="18sp" 
+             />
+   <TextView 
+       android:id="@+id/tv_level"
+             android:layout_weight="5"
+             android:layout_width="0dp"
+             android:layout_height="wrap_content"
+       android:layout_gravity="center"
+             android:gravity="center"
+             android:maxLines= "3"
+             android:textColor="@color/black"
+             android:textSize="18sp"
+             />
+
+    <TextView
+        android:id="@+id/tv_parts"
+        android:layout_weight="5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:maxLines= "3"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        />
+
+    <!-- CheckBox
+        android:id="@+id/cb_block"
+        android:layout_weight="6"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="left|center_vertical"
+        android:maxLines= "3"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:text="@string/puzzle_block"
+        / -->
+
+
+   
+ </LinearLayout>

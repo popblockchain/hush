@@ -1,0 +1,4706 @@
+[
+    {
+        "outputFile": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\incremental\\mergeLiteReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 209,
+                    "endColumn": 19,
+                    "endOffset": 5819
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 5824,
+                    "endLine": 234,
+                    "endColumn": 19,
+                    "endOffset": 6214
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 6219,
+                    "endColumn": 53,
+                    "endOffset": 6268
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 6273,
+                    "endColumn": 54,
+                    "endOffset": 6323
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 6328,
+                    "endColumn": 49,
+                    "endOffset": 6373
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 6378,
+                    "endColumn": 55,
+                    "endOffset": 6429
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 6434,
+                    "endColumn": 47,
+                    "endOffset": 6477
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 6482,
+                    "endColumn": 53,
+                    "endOffset": 6531
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 6536,
+                    "endColumn": 53,
+                    "endOffset": 6585
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 6590,
+                    "endColumn": 50,
+                    "endOffset": 6636
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 6641,
+                    "endColumn": 50,
+                    "endOffset": 6687
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 6692,
+                    "endColumn": 56,
+                    "endOffset": 6744
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 6749,
+                    "endColumn": 47,
+                    "endOffset": 6792
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 6797,
+                    "endColumn": 51,
+                    "endOffset": 6844
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 6849,
+                    "endColumn": 60,
+                    "endOffset": 6905
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 6910,
+                    "endColumn": 52,
+                    "endOffset": 6958
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 6963,
+                    "endColumn": 43,
+                    "endOffset": 7002
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 7007,
+                    "endColumn": 44,
+                    "endOffset": 7047
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 7052,
+                    "endColumn": 46,
+                    "endOffset": 7094
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 7099,
+                    "endColumn": 39,
+                    "endOffset": 7134
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 7139,
+                    "endColumn": 43,
+                    "endOffset": 7178
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 7183,
+                    "endColumn": 49,
+                    "endOffset": 7228
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 7233,
+                    "endColumn": 39,
+                    "endOffset": 7268
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 7273,
+                    "endColumn": 40,
+                    "endOffset": 7309
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 7314,
+                    "endColumn": 52,
+                    "endOffset": 7362
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 7367,
+                    "endColumn": 54,
+                    "endOffset": 7417
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 7422,
+                    "endColumn": 45,
+                    "endOffset": 7463
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 7468,
+                    "endColumn": 38,
+                    "endOffset": 7502
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\lite\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 7507,
+                    "endColumn": 39,
+                    "endOffset": 7542
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\lite\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 7547,
+                    "endColumn": 56,
+                    "endOffset": 7599
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 7604,
+                    "endColumn": 52,
+                    "endOffset": 7652
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 7657,
+                    "endColumn": 51,
+                    "endOffset": 7704
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 7709,
+                    "endColumn": 57,
+                    "endOffset": 7762
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 7767,
+                    "endColumn": 55,
+                    "endOffset": 7818
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 7823,
+                    "endColumn": 57,
+                    "endOffset": 7876
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 7881,
+                    "endColumn": 49,
+                    "endOffset": 7926
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 7931,
+                    "endColumn": 52,
+                    "endOffset": 7979
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 7984,
+                    "endColumn": 54,
+                    "endOffset": 8034
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 8039,
+                    "endColumn": 46,
+                    "endOffset": 8081
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 8086,
+                    "endColumn": 40,
+                    "endOffset": 8122
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 8127,
+                    "endColumn": 43,
+                    "endOffset": 8166
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 8171,
+                    "endColumn": 49,
+                    "endOffset": 8216
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 8221,
+                    "endColumn": 49,
+                    "endOffset": 8266
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 8271,
+                    "endColumn": 57,
+                    "endOffset": 8324
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 8329,
+                    "endColumn": 60,
+                    "endOffset": 8385
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 8390,
+                    "endColumn": 51,
+                    "endOffset": 8437
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 8442,
+                    "endColumn": 41,
+                    "endOffset": 8479
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 8484,
+                    "endColumn": 41,
+                    "endOffset": 8521
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 8526,
+                    "endColumn": 38,
+                    "endOffset": 8560
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 8565,
+                    "endColumn": 38,
+                    "endOffset": 8599
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 8604,
+                    "endColumn": 41,
+                    "endOffset": 8641
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 8646,
+                    "endColumn": 42,
+                    "endOffset": 8684
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 8689,
+                    "endColumn": 47,
+                    "endOffset": 8732
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 8737,
+                    "endColumn": 39,
+                    "endOffset": 8772
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 8777,
+                    "endColumn": 41,
+                    "endOffset": 8814
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 8819,
+                    "endColumn": 41,
+                    "endOffset": 8856
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 8861,
+                    "endColumn": 54,
+                    "endOffset": 8911
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 8916,
+                    "endColumn": 56,
+                    "endOffset": 8968
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 8973,
+                    "endColumn": 52,
+                    "endOffset": 9021
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 9026,
+                    "endColumn": 56,
+                    "endOffset": 9078
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 9083,
+                    "endColumn": 69,
+                    "endOffset": 9148
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 9153,
+                    "endColumn": 42,
+                    "endOffset": 9191
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 9196,
+                    "endColumn": 50,
+                    "endOffset": 9242
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 9247,
+                    "endColumn": 42,
+                    "endOffset": 9285
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 9290,
+                    "endColumn": 43,
+                    "endOffset": 9329
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 9334,
+                    "endColumn": 44,
+                    "endOffset": 9374
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 9379,
+                    "endColumn": 42,
+                    "endOffset": 9417
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 9422,
+                    "endColumn": 41,
+                    "endOffset": 9459
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 9464,
+                    "endColumn": 67,
+                    "endOffset": 9527
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 9532,
+                    "endColumn": 41,
+                    "endOffset": 9569
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 9574,
+                    "endColumn": 57,
+                    "endOffset": 9627
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\lite\\res\\values\\strings1.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 9632,
+                    "endColumn": 51,
+                    "endOffset": 9679
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 9684,
+                    "endColumn": 111,
+                    "endOffset": 9791
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\lite\\res\\values\\strings1.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 9796,
+                    "endColumn": 42,
+                    "endOffset": 9834
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\lite\\res\\values\\strings1.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 9839,
+                    "endColumn": 52,
+                    "endOffset": 9887
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 9892,
+                    "endColumn": 52,
+                    "endOffset": 9940
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 9945,
+                    "endColumn": 90,
+                    "endOffset": 10031
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\lite\\res\\values\\strings1.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 10036,
+                    "endColumn": 53,
+                    "endOffset": 10085
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\lite\\res\\values\\strings1.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 10090,
+                    "endColumn": 107,
+                    "endOffset": 10193
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 10198,
+                    "endColumn": 80,
+                    "endOffset": 10274
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 10279,
+                    "endColumn": 58,
+                    "endOffset": 10333
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 10338,
+                    "endColumn": 41,
+                    "endOffset": 10375
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 10380,
+                    "endColumn": 74,
+                    "endOffset": 10450
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 10455,
+                    "endColumn": 49,
+                    "endOffset": 10500
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 10505,
+                    "endColumn": 74,
+                    "endOffset": 10575
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 10580,
+                    "endColumn": 47,
+                    "endOffset": 10623
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 10628,
+                    "endColumn": 39,
+                    "endOffset": 10663
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 10668,
+                    "endColumn": 49,
+                    "endOffset": 10713
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 10718,
+                    "endColumn": 55,
+                    "endOffset": 10769
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 10774,
+                    "endColumn": 54,
+                    "endOffset": 10824
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 10829,
+                    "endColumn": 52,
+                    "endOffset": 10877
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 10882,
+                    "endColumn": 45,
+                    "endOffset": 10923
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 10928,
+                    "endColumn": 37,
+                    "endOffset": 10961
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 10966,
+                    "endColumn": 62,
+                    "endOffset": 11024
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 11029,
+                    "endColumn": 63,
+                    "endOffset": 11088
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 11093,
+                    "endColumn": 56,
+                    "endOffset": 11145
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 11150,
+                    "endColumn": 50,
+                    "endOffset": 11196
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 11201,
+                    "endColumn": 139,
+                    "endOffset": 11336
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\lite\\res\\values\\strings1.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 11341,
+                    "endColumn": 95,
+                    "endOffset": 11432
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 11437,
+                    "endColumn": 74,
+                    "endOffset": 11507
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 11512,
+                    "endColumn": 51,
+                    "endOffset": 11559
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 11564,
+                    "endColumn": 161,
+                    "endOffset": 11721
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 11726,
+                    "endColumn": 210,
+                    "endOffset": 11932
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 11937,
+                    "endColumn": 174,
+                    "endOffset": 12107
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 12112,
+                    "endColumn": 67,
+                    "endOffset": 12175
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 12180,
+                    "endColumn": 114,
+                    "endOffset": 12290
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 12295,
+                    "endColumn": 57,
+                    "endOffset": 12348
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 12353,
+                    "endColumn": 61,
+                    "endOffset": 12410
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 12415,
+                    "endColumn": 58,
+                    "endOffset": 12469
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 12474,
+                    "endColumn": 59,
+                    "endOffset": 12529
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 12534,
+                    "endColumn": 43,
+                    "endOffset": 12573
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 12578,
+                    "endColumn": 57,
+                    "endOffset": 12631
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 12636,
+                    "endColumn": 50,
+                    "endOffset": 12682
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 12687,
+                    "endColumn": 58,
+                    "endOffset": 12741
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 12746,
+                    "endColumn": 114,
+                    "endOffset": 12856
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 12861,
+                    "endColumn": 51,
+                    "endOffset": 12908
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 12913,
+                    "endColumn": 57,
+                    "endOffset": 12966
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 12971,
+                    "endColumn": 59,
+                    "endOffset": 13026
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 13031,
+                    "endColumn": 94,
+                    "endOffset": 13121
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 13126,
+                    "endColumn": 63,
+                    "endOffset": 13185
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 13190,
+                    "endColumn": 88,
+                    "endOffset": 13274
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 13279,
+                    "endColumn": 65,
+                    "endOffset": 13340
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 13345,
+                    "endColumn": 89,
+                    "endOffset": 13430
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 13435,
+                    "endColumn": 127,
+                    "endOffset": 13558
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 13563,
+                    "endColumn": 63,
+                    "endOffset": 13622
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 13627,
+                    "endColumn": 48,
+                    "endOffset": 13671
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 13676,
+                    "endColumn": 77,
+                    "endOffset": 13749
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 13754,
+                    "endColumn": 71,
+                    "endOffset": 13821
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 13826,
+                    "endColumn": 50,
+                    "endOffset": 13872
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 13877,
+                    "endColumn": 67,
+                    "endOffset": 13940
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 13945,
+                    "endColumn": 59,
+                    "endOffset": 14000
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 14005,
+                    "endColumn": 70,
+                    "endOffset": 14071
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 14076,
+                    "endColumn": 120,
+                    "endOffset": 14192
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 14197,
+                    "endColumn": 123,
+                    "endOffset": 14316
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 14321,
+                    "endColumn": 57,
+                    "endOffset": 14374
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 14379,
+                    "endColumn": 107,
+                    "endOffset": 14482
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 14487,
+                    "endColumn": 109,
+                    "endOffset": 14592
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 14597,
+                    "endColumn": 116,
+                    "endOffset": 14709
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 14714,
+                    "endColumn": 85,
+                    "endOffset": 14795
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 14800,
+                    "endColumn": 91,
+                    "endOffset": 14887
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 14892,
+                    "endColumn": 92,
+                    "endOffset": 14980
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 14985,
+                    "endColumn": 92,
+                    "endOffset": 15073
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 15078,
+                    "endColumn": 84,
+                    "endOffset": 15158
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 15163,
+                    "endColumn": 53,
+                    "endOffset": 15212
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 15217,
+                    "endColumn": 155,
+                    "endOffset": 15368
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 15373,
+                    "endColumn": 127,
+                    "endOffset": 15496
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 15501,
+                    "endColumn": 50,
+                    "endOffset": 15547
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 15552,
+                    "endColumn": 96,
+                    "endOffset": 15644
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 15649,
+                    "endColumn": 52,
+                    "endOffset": 15697
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 15702,
+                    "endColumn": 100,
+                    "endOffset": 15798
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 15803,
+                    "endColumn": 50,
+                    "endOffset": 15849
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 15854,
+                    "endColumn": 52,
+                    "endOffset": 15902
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 15907,
+                    "endColumn": 80,
+                    "endOffset": 15983
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 15988,
+                    "endColumn": 53,
+                    "endOffset": 16037
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 16042,
+                    "endColumn": 164,
+                    "endOffset": 16202
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 16207,
+                    "endColumn": 92,
+                    "endOffset": 16295
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 16300,
+                    "endColumn": 47,
+                    "endOffset": 16343
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 16348,
+                    "endColumn": 70,
+                    "endOffset": 16414
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 16419,
+                    "endColumn": 49,
+                    "endOffset": 16464
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 16469,
+                    "endColumn": 53,
+                    "endOffset": 16518
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 16523,
+                    "endColumn": 78,
+                    "endOffset": 16597
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 16602,
+                    "endColumn": 106,
+                    "endOffset": 16704
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 16709,
+                    "endColumn": 70,
+                    "endOffset": 16775
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 16780,
+                    "endColumn": 234,
+                    "endOffset": 17010
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 17015,
+                    "endColumn": 47,
+                    "endOffset": 17058
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 17063,
+                    "endColumn": 117,
+                    "endOffset": 17176
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 17181,
+                    "endColumn": 78,
+                    "endOffset": 17255
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 17260,
+                    "endColumn": 45,
+                    "endOffset": 17301
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 401,
+                    "startColumn": 4,
+                    "startOffset": 17306,
+                    "endColumn": 70,
+                    "endOffset": 17372
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 17377,
+                    "endColumn": 72,
+                    "endOffset": 17445
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 403,
+                    "startColumn": 4,
+                    "startOffset": 17450,
+                    "endColumn": 58,
+                    "endOffset": 17504
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 404,
+                    "startColumn": 4,
+                    "startOffset": 17509,
+                    "endColumn": 57,
+                    "endOffset": 17562
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 17567,
+                    "endColumn": 74,
+                    "endOffset": 17637
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 406,
+                    "startColumn": 4,
+                    "startOffset": 17642,
+                    "endColumn": 66,
+                    "endOffset": 17704
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 407,
+                    "startColumn": 4,
+                    "startOffset": 17709,
+                    "endColumn": 179,
+                    "endOffset": 17884
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 17889,
+                    "endColumn": 95,
+                    "endOffset": 17980
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 409,
+                    "startColumn": 4,
+                    "startOffset": 17985,
+                    "endColumn": 93,
+                    "endOffset": 18074
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 410,
+                    "startColumn": 4,
+                    "startOffset": 18079,
+                    "endColumn": 72,
+                    "endOffset": 18147
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 18152,
+                    "endColumn": 98,
+                    "endOffset": 18246
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 18251,
+                    "endColumn": 61,
+                    "endOffset": 18308
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 413,
+                    "startColumn": 4,
+                    "startOffset": 18313,
+                    "endColumn": 53,
+                    "endOffset": 18362
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 414,
+                    "startColumn": 4,
+                    "startOffset": 18367,
+                    "endColumn": 58,
+                    "endOffset": 18421
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 415,
+                    "startColumn": 4,
+                    "startOffset": 18426,
+                    "endColumn": 40,
+                    "endOffset": 18462
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 18467,
+                    "endColumn": 56,
+                    "endOffset": 18519
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 417,
+                    "startColumn": 4,
+                    "startOffset": 18524,
+                    "endColumn": 43,
+                    "endOffset": 18563
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 418,
+                    "startColumn": 4,
+                    "startOffset": 18568,
+                    "endColumn": 47,
+                    "endOffset": 18611
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 419,
+                    "startColumn": 4,
+                    "startOffset": 18616,
+                    "endColumn": 47,
+                    "endOffset": 18659
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 18664,
+                    "endColumn": 60,
+                    "endOffset": 18720
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 18725,
+                    "endColumn": 52,
+                    "endOffset": 18773
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 422,
+                    "startColumn": 4,
+                    "startOffset": 18778,
+                    "endColumn": 68,
+                    "endOffset": 18842
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 423,
+                    "startColumn": 4,
+                    "startOffset": 18847,
+                    "endColumn": 67,
+                    "endOffset": 18910
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 18915,
+                    "endColumn": 105,
+                    "endOffset": 19016
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 19021,
+                    "endColumn": 108,
+                    "endOffset": 19125
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 426,
+                    "startColumn": 4,
+                    "startOffset": 19130,
+                    "endColumn": 39,
+                    "endOffset": 19165
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 427,
+                    "startColumn": 4,
+                    "startOffset": 19170,
+                    "endColumn": 82,
+                    "endOffset": 19248
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 19253,
+                    "endColumn": 62,
+                    "endOffset": 19311
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 429,
+                    "startColumn": 4,
+                    "startOffset": 19316,
+                    "endColumn": 66,
+                    "endOffset": 19378
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 430,
+                    "startColumn": 4,
+                    "startOffset": 19383,
+                    "endColumn": 324,
+                    "endOffset": 19703
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 19708,
+                    "endColumn": 311,
+                    "endOffset": 20015
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 10577,
+                        "endColumn": 311,
+                        "endOffset": 10884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 20020,
+                    "endColumn": 56,
+                    "endOffset": 20072
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 20077,
+                    "endColumn": 84,
+                    "endOffset": 20157
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 434,
+                    "startColumn": 4,
+                    "startOffset": 20162,
+                    "endColumn": 32,
+                    "endOffset": 20190
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 20195,
+                    "endColumn": 181,
+                    "endOffset": 20372
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 20377,
+                    "endColumn": 50,
+                    "endOffset": 20423
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 437,
+                    "startColumn": 4,
+                    "startOffset": 20428,
+                    "endColumn": 129,
+                    "endOffset": 20553
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 438,
+                    "startColumn": 4,
+                    "startOffset": 20558,
+                    "endColumn": 63,
+                    "endOffset": 20617
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 439,
+                    "startColumn": 4,
+                    "startOffset": 20622,
+                    "endColumn": 69,
+                    "endOffset": 20687
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 20692,
+                    "endColumn": 69,
+                    "endOffset": 20757
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 441,
+                    "startColumn": 4,
+                    "startOffset": 20762,
+                    "endColumn": 51,
+                    "endOffset": 20809
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 442,
+                    "startColumn": 4,
+                    "startOffset": 20814,
+                    "endColumn": 53,
+                    "endOffset": 20863
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 443,
+                    "startColumn": 4,
+                    "startOffset": 20868,
+                    "endColumn": 61,
+                    "endOffset": 20925
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 20930,
+                    "endColumn": 173,
+                    "endOffset": 21099
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 21104,
+                    "endColumn": 100,
+                    "endOffset": 21200
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 21205,
+                    "endColumn": 61,
+                    "endOffset": 21262
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 21267,
+                    "endColumn": 49,
+                    "endOffset": 21312
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 21317,
+                    "endColumn": 57,
+                    "endOffset": 21370
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 21375,
+                    "endColumn": 85,
+                    "endOffset": 21456
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 21461,
+                    "endColumn": 51,
+                    "endOffset": 21508
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 21513,
+                    "endColumn": 58,
+                    "endOffset": 21567
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 21572,
+                    "endColumn": 59,
+                    "endOffset": 21627
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 21632,
+                    "endColumn": 55,
+                    "endOffset": 21683
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 21688,
+                    "endColumn": 110,
+                    "endOffset": 21794
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 21799,
+                    "endColumn": 275,
+                    "endOffset": 22070
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 22075,
+                    "endColumn": 57,
+                    "endOffset": 22128
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 22133,
+                    "endColumn": 60,
+                    "endOffset": 22189
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 22194,
+                    "endColumn": 67,
+                    "endOffset": 22257
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 22262,
+                    "endColumn": 70,
+                    "endOffset": 22328
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 22333,
+                    "endColumn": 132,
+                    "endOffset": 22461
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 22466,
+                    "endColumn": 49,
+                    "endOffset": 22511
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 22516,
+                    "endColumn": 49,
+                    "endOffset": 22561
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 22566,
+                    "endColumn": 50,
+                    "endOffset": 22612
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 22617,
+                    "endColumn": 75,
+                    "endOffset": 22688
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 22693,
+                    "endColumn": 56,
+                    "endOffset": 22745
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 22750,
+                    "endColumn": 55,
+                    "endOffset": 22801
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 22806,
+                    "endColumn": 58,
+                    "endOffset": 22860
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 22865,
+                    "endColumn": 71,
+                    "endOffset": 22932
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 22937,
+                    "endColumn": 44,
+                    "endOffset": 22977
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 22982,
+                    "endColumn": 106,
+                    "endOffset": 23084
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 23089,
+                    "endColumn": 133,
+                    "endOffset": 23218
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 23223,
+                    "endColumn": 40,
+                    "endOffset": 23259
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 23264,
+                    "endColumn": 33,
+                    "endOffset": 23293
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 23298,
+                    "endColumn": 53,
+                    "endOffset": 23347
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 23352,
+                    "endColumn": 33,
+                    "endOffset": 23381
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 23386,
+                    "endColumn": 398,
+                    "endOffset": 23780
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 23785,
+                    "endColumn": 61,
+                    "endOffset": 23842
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 23847,
+                    "endColumn": 50,
+                    "endOffset": 23893
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 23898,
+                    "endColumn": 49,
+                    "endOffset": 23943
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 23948,
+                    "endColumn": 54,
+                    "endOffset": 23998
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 24003,
+                    "endColumn": 89,
+                    "endOffset": 24088
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 24093,
+                    "endColumn": 99,
+                    "endOffset": 24188
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 24193,
+                    "endColumn": 113,
+                    "endOffset": 24302
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 24307,
+                    "endColumn": 243,
+                    "endOffset": 24546
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 24551,
+                    "endColumn": 119,
+                    "endOffset": 24666
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 24671,
+                    "endColumn": 73,
+                    "endOffset": 24740
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 24745,
+                    "endColumn": 63,
+                    "endOffset": 24804
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 24809,
+                    "endColumn": 82,
+                    "endOffset": 24887
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 24892,
+                    "endColumn": 75,
+                    "endOffset": 24963
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 24968,
+                    "endColumn": 119,
+                    "endOffset": 25083
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 25088,
+                    "endColumn": 59,
+                    "endOffset": 25143
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 25148,
+                    "endColumn": 61,
+                    "endOffset": 25205
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 25210,
+                    "endColumn": 58,
+                    "endOffset": 25264
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 25269,
+                    "endColumn": 63,
+                    "endOffset": 25328
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 25333,
+                    "endColumn": 238,
+                    "endOffset": 25567
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 25572,
+                    "endColumn": 69,
+                    "endOffset": 25637
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 25642,
+                    "endColumn": 139,
+                    "endOffset": 25777
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 25782,
+                    "endColumn": 72,
+                    "endOffset": 25850
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 25855,
+                    "endColumn": 60,
+                    "endOffset": 25911
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 25916,
+                    "endColumn": 108,
+                    "endOffset": 26020
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 26025,
+                    "endColumn": 46,
+                    "endOffset": 26067
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 26072,
+                    "endColumn": 134,
+                    "endOffset": 26202
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 26207,
+                    "endColumn": 60,
+                    "endOffset": 26263
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 26268,
+                    "endColumn": 141,
+                    "endOffset": 26405
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 26410,
+                    "endColumn": 49,
+                    "endOffset": 26455
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 26460,
+                    "endColumn": 43,
+                    "endOffset": 26499
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 26504,
+                    "endColumn": 51,
+                    "endOffset": 26551
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 26556,
+                    "endColumn": 51,
+                    "endOffset": 26603
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 26608,
+                    "endColumn": 49,
+                    "endOffset": 26653
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 26658,
+                    "endColumn": 52,
+                    "endOffset": 26706
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 26711,
+                    "endColumn": 49,
+                    "endOffset": 26756
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 26761,
+                    "endColumn": 45,
+                    "endOffset": 26802
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 26807,
+                    "endColumn": 101,
+                    "endOffset": 26904
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 26909,
+                    "endColumn": 45,
+                    "endOffset": 26950
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 26955,
+                    "endColumn": 68,
+                    "endOffset": 27019
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 27024,
+                    "endColumn": 168,
+                    "endOffset": 27188
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 27193,
+                    "endColumn": 58,
+                    "endOffset": 27247
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 27252,
+                    "endColumn": 56,
+                    "endOffset": 27304
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 27309,
+                    "endColumn": 124,
+                    "endOffset": 27429
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 27434,
+                    "endColumn": 52,
+                    "endOffset": 27482
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 27487,
+                    "endColumn": 120,
+                    "endOffset": 27603
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 27608,
+                    "endColumn": 54,
+                    "endOffset": 27658
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 27663,
+                    "endColumn": 67,
+                    "endOffset": 27726
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 27731,
+                    "endColumn": 71,
+                    "endOffset": 27798
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 27803,
+                    "endColumn": 41,
+                    "endOffset": 27840
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 27845,
+                    "endColumn": 56,
+                    "endOffset": 27897
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 27902,
+                    "endColumn": 52,
+                    "endOffset": 27950
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 27955,
+                    "endColumn": 166,
+                    "endOffset": 28117
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 28122,
+                    "endColumn": 48,
+                    "endOffset": 28166
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 28171,
+                    "endColumn": 48,
+                    "endOffset": 28215
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 28220,
+                    "endColumn": 44,
+                    "endOffset": 28260
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 28265,
+                    "endColumn": 51,
+                    "endOffset": 28312
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 28317,
+                    "endColumn": 119,
+                    "endOffset": 28432
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 28437,
+                    "endColumn": 324,
+                    "endOffset": 28757
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 28762,
+                    "endColumn": 55,
+                    "endOffset": 28813
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 28818,
+                    "endColumn": 265,
+                    "endOffset": 29079
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 29084,
+                    "endColumn": 60,
+                    "endOffset": 29140
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 29145,
+                    "endColumn": 237,
+                    "endOffset": 29378
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 29383,
+                    "endColumn": 70,
+                    "endOffset": 29449
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 29454,
+                    "endColumn": 67,
+                    "endOffset": 29517
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 29522,
+                    "endColumn": 64,
+                    "endOffset": 29582
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 29587,
+                    "endColumn": 131,
+                    "endOffset": 29714
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 29719,
+                    "endColumn": 93,
+                    "endOffset": 29808
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 29813,
+                    "endColumn": 53,
+                    "endOffset": 29862
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 29867,
+                    "endColumn": 72,
+                    "endOffset": 29935
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 546,
+                    "startColumn": 4,
+                    "startOffset": 29940,
+                    "endColumn": 68,
+                    "endOffset": 30004
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 30009,
+                    "endColumn": 46,
+                    "endOffset": 30051
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 30056,
+                    "endColumn": 41,
+                    "endOffset": 30093
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 549,
+                    "startColumn": 4,
+                    "startOffset": 30098,
+                    "endColumn": 63,
+                    "endOffset": 30157
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 30162,
+                    "endColumn": 49,
+                    "endOffset": 30207
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 30212,
+                    "endColumn": 83,
+                    "endOffset": 30291
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 552,
+                    "startColumn": 4,
+                    "startOffset": 30296,
+                    "endColumn": 49,
+                    "endOffset": 30341
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 30346,
+                    "endColumn": 97,
+                    "endOffset": 30439
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 554,
+                    "startColumn": 4,
+                    "startOffset": 30444,
+                    "endColumn": 67,
+                    "endOffset": 30507
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 555,
+                    "startColumn": 4,
+                    "startOffset": 30512,
+                    "endColumn": 66,
+                    "endOffset": 30574
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 30579,
+                    "endColumn": 94,
+                    "endOffset": 30669
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 557,
+                    "startColumn": 4,
+                    "startOffset": 30674,
+                    "endColumn": 63,
+                    "endOffset": 30733
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 30738,
+                    "endColumn": 45,
+                    "endOffset": 30779
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 559,
+                    "startColumn": 4,
+                    "startOffset": 30784,
+                    "endColumn": 39,
+                    "endOffset": 30819
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 30824,
+                    "endColumn": 47,
+                    "endOffset": 30867
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 561,
+                    "startColumn": 4,
+                    "startOffset": 30872,
+                    "endColumn": 91,
+                    "endOffset": 30959
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 30964,
+                    "endColumn": 62,
+                    "endOffset": 31022
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 31027,
+                    "endColumn": 66,
+                    "endOffset": 31089
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 564,
+                    "startColumn": 4,
+                    "startOffset": 31094,
+                    "endColumn": 130,
+                    "endOffset": 31220
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 565,
+                    "startColumn": 4,
+                    "startOffset": 31225,
+                    "endColumn": 47,
+                    "endOffset": 31268
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 566,
+                    "startColumn": 4,
+                    "startOffset": 31273,
+                    "endColumn": 65,
+                    "endOffset": 31334
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 567,
+                    "startColumn": 4,
+                    "startOffset": 31339,
+                    "endColumn": 57,
+                    "endOffset": 31392
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 31397,
+                    "endColumn": 68,
+                    "endOffset": 31461
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 31466,
+                    "endColumn": 54,
+                    "endOffset": 31516
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 31521,
+                    "endColumn": 91,
+                    "endOffset": 31608
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 571,
+                    "startColumn": 4,
+                    "startOffset": 31613,
+                    "endColumn": 75,
+                    "endOffset": 31684
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 572,
+                    "startColumn": 4,
+                    "startOffset": 31689,
+                    "endColumn": 74,
+                    "endOffset": 31759
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 573,
+                    "startColumn": 4,
+                    "startOffset": 31764,
+                    "endColumn": 102,
+                    "endOffset": 31862
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 31867,
+                    "endColumn": 64,
+                    "endOffset": 31927
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 575,
+                    "startColumn": 4,
+                    "startOffset": 31932,
+                    "endColumn": 58,
+                    "endOffset": 31986
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 576,
+                    "startColumn": 4,
+                    "startOffset": 31991,
+                    "endColumn": 103,
+                    "endOffset": 32090
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 577,
+                    "startColumn": 4,
+                    "startOffset": 32095,
+                    "endColumn": 64,
+                    "endOffset": 32155
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 578,
+                    "startColumn": 4,
+                    "startOffset": 32160,
+                    "endColumn": 58,
+                    "endOffset": 32214
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 579,
+                    "startColumn": 4,
+                    "startOffset": 32219,
+                    "endColumn": 43,
+                    "endOffset": 32258
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 32263,
+                    "endColumn": 70,
+                    "endOffset": 32329
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 581,
+                    "startColumn": 4,
+                    "startOffset": 32334,
+                    "endColumn": 43,
+                    "endOffset": 32373
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 582,
+                    "startColumn": 4,
+                    "startOffset": 32378,
+                    "endColumn": 43,
+                    "endOffset": 32417
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 583,
+                    "startColumn": 4,
+                    "startOffset": 32422,
+                    "endColumn": 118,
+                    "endOffset": 32536
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 584,
+                    "startColumn": 4,
+                    "startOffset": 32541,
+                    "endColumn": 64,
+                    "endOffset": 32601
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 32606,
+                    "endColumn": 132,
+                    "endOffset": 32734
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 586,
+                    "startColumn": 4,
+                    "startOffset": 32739,
+                    "endColumn": 45,
+                    "endOffset": 32780
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 32785,
+                    "endColumn": 66,
+                    "endOffset": 32847
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 588,
+                    "startColumn": 4,
+                    "startOffset": 32852,
+                    "endColumn": 59,
+                    "endOffset": 32907
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 589,
+                    "startColumn": 4,
+                    "startOffset": 32912,
+                    "endColumn": 138,
+                    "endOffset": 33046
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 33051,
+                    "endColumn": 62,
+                    "endOffset": 33109
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 591,
+                    "startColumn": 4,
+                    "startOffset": 33114,
+                    "endColumn": 139,
+                    "endOffset": 33249
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 592,
+                    "startColumn": 4,
+                    "startOffset": 33254,
+                    "endColumn": 47,
+                    "endOffset": 33297
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 593,
+                    "startColumn": 4,
+                    "startOffset": 33302,
+                    "endColumn": 63,
+                    "endOffset": 33361
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 594,
+                    "startColumn": 4,
+                    "startOffset": 33366,
+                    "endColumn": 114,
+                    "endOffset": 33476
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 595,
+                    "startColumn": 4,
+                    "startOffset": 33481,
+                    "endColumn": 58,
+                    "endOffset": 33535
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 596,
+                    "startColumn": 4,
+                    "startOffset": 33540,
+                    "endColumn": 61,
+                    "endOffset": 33597
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 597,
+                    "startColumn": 4,
+                    "startOffset": 33602,
+                    "endColumn": 56,
+                    "endOffset": 33654
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 598,
+                    "startColumn": 4,
+                    "startOffset": 33659,
+                    "endColumn": 67,
+                    "endOffset": 33722
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 599,
+                    "startColumn": 4,
+                    "startOffset": 33727,
+                    "endColumn": 51,
+                    "endOffset": 33774
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 600,
+                    "startColumn": 4,
+                    "startOffset": 33779,
+                    "endColumn": 86,
+                    "endOffset": 33861
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 601,
+                    "startColumn": 4,
+                    "startOffset": 33866,
+                    "endColumn": 64,
+                    "endOffset": 33926
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 602,
+                    "startColumn": 4,
+                    "startOffset": 33931,
+                    "endColumn": 70,
+                    "endOffset": 33997
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 603,
+                    "startColumn": 4,
+                    "startOffset": 34002,
+                    "endColumn": 51,
+                    "endOffset": 34049
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 604,
+                    "startColumn": 4,
+                    "startOffset": 34054,
+                    "endColumn": 71,
+                    "endOffset": 34121
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 34126,
+                    "endColumn": 53,
+                    "endOffset": 34175
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 606,
+                    "startColumn": 4,
+                    "startOffset": 34180,
+                    "endColumn": 59,
+                    "endOffset": 34235
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 607,
+                    "startColumn": 4,
+                    "startOffset": 34240,
+                    "endColumn": 82,
+                    "endOffset": 34318
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 608,
+                    "startColumn": 4,
+                    "startOffset": 34323,
+                    "endColumn": 35,
+                    "endOffset": 34354
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 609,
+                    "startColumn": 4,
+                    "startOffset": 34359,
+                    "endLine": 612,
+                    "endColumn": 12,
+                    "endOffset": 34596
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 613,
+                    "startColumn": 4,
+                    "startOffset": 34601,
+                    "endLine": 624,
+                    "endColumn": 8,
+                    "endOffset": 35325
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 625,
+                    "startColumn": 4,
+                    "startOffset": 35330,
+                    "endLine": 627,
+                    "endColumn": 12,
+                    "endOffset": 35408
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 628,
+                    "startColumn": 4,
+                    "startOffset": 35413,
+                    "endColumn": 51,
+                    "endOffset": 35460
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 629,
+                    "startColumn": 4,
+                    "startOffset": 35465,
+                    "endLine": 631,
+                    "endColumn": 12,
+                    "endOffset": 35606
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 632,
+                    "startColumn": 4,
+                    "startOffset": 35611,
+                    "endLine": 634,
+                    "endColumn": 8,
+                    "endOffset": 35758
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 635,
+                    "startColumn": 4,
+                    "startOffset": 35763,
+                    "endColumn": 59,
+                    "endOffset": 35818
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 636,
+                    "startColumn": 4,
+                    "startOffset": 35823,
+                    "endLine": 643,
+                    "endColumn": 12,
+                    "endOffset": 36271
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 644,
+                    "startColumn": 4,
+                    "startOffset": 36276,
+                    "endLine": 650,
+                    "endColumn": 12,
+                    "endOffset": 36659
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 651,
+                    "startColumn": 4,
+                    "startOffset": 36664,
+                    "endColumn": 53,
+                    "endOffset": 36713
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 652,
+                    "startColumn": 4,
+                    "startOffset": 36718,
+                    "endLine": 654,
+                    "endColumn": 12,
+                    "endOffset": 36883
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 655,
+                    "startColumn": 4,
+                    "startOffset": 36888,
+                    "endColumn": 26,
+                    "endOffset": 36910
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 656,
+                    "startColumn": 4,
+                    "startOffset": 36915,
+                    "endLine": 659,
+                    "endColumn": 12,
+                    "endOffset": 37107
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 660,
+                    "startColumn": 4,
+                    "startOffset": 37112,
+                    "endLine": 665,
+                    "endColumn": 12,
+                    "endOffset": 37386
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values\\template-styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\btn_menu_normal.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\btn_menu_normal.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\btn_update.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\btn_update.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\graphic.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\graphic.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\contacts_phone_normal.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\contacts_phone_normal.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\btn_update_over.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\btn_update_over.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\search.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\arrow_down.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\btn_menu.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\btn_menu.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\icon_info.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\icon_info.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\icon_512.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\icon_512.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\text_box.9.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\text_box.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\btn_menu_over.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\btn_menu_over.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\microphone.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\microphone.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\drawable-xhdpi\\settings.png",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    }
+]

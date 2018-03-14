@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\anim\\rotate_size_anim.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\anim\\rotate_size_anim.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\anim\\fade_in.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\anim\\size_to_0.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\anim\\size_to_0.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\anim\\flow.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\anim\\flow.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\anim\\fade_out.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\res\\merged\\lite\\release\\anim\\size_to_1.xml",
+        "source": "D:\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\anim\\size_to_1.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+**
+** Copyright 2008, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources>
+    <!-- Title for Latin keyboard  -->
+
+    <string name="app_install_url">\niPhone https://goo.gl/DJFmLt \nAndroid https://goo.gl/R0Bgsl</string>
+    <string name="decrypt_help">※ You can decrypt your encrypted message any time, but other people cannot decrypt after 24 hours.</string>
+
+    <string name="app_name">Hush!</string>
+    <string name="app_help_first">What is Hush!?</string>
+
+    <string name="app_noti_title_lite">Hush!</string>
+    <string name="app_noti_content_lite">You can encrypt/decrypt text with Hush!.</string>
+
+</resources>

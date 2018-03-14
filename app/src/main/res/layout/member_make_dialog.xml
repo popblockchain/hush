@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+        
+        <EditText
+            android:id="@+id/et_member_nm"
+            android:inputType="textFilter"
+            android:layout_width="250dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:hint = "@string/member_nm"
+            android:textSize="17sp" 
+            />
+
+       <EditText
+            android:id="@+id/et_member_no"
+            android:inputType="phone"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:hint = "@string/member_no"
+            android:textSize="17sp" 
+            />
+         
+        
+        <Button
+            android:id="@+id/btn_ok"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text = "@string/ok"
+            android:onClick = "btn_ok_pressed"
+            />
+        
+        
+</LinearLayout>

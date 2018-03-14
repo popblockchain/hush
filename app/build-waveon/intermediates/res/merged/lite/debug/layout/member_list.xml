@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="vertical"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="@drawable/backgnd"
+         android:weightSum="100"
+         android:padding="0dp"
+         >
+         
+    <RelativeLayout 
+        android:padding="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" 
+        android:layout_weight="8">
+        
+        <ImageView
+            android:id="@+id/search"
+            android:layout_marginTop ="2dp" 
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:scaleType="fitXY"
+            android:layout_marginLeft ="13dp" 
+            android:layout_alignParentLeft ="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/search" />
+           
+        <ImageView
+            android:id="@+id/image_search"
+            android:layout_marginTop ="3dp" 
+            android:layout_marginLeft ="16dp" 
+            android:layout_marginRight ="80dp" 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/search" 
+            android:scaleType="fitXY"
+            android:src="@drawable/text_box" />
+        
+        <EditText
+            android:id="@+id/et_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/search" 
+                android:padding="4dp" 
+                android:layout_marginTop ="8dp" 
+                android:layout_marginLeft ="21dp" 
+                android:layout_marginRight ="85dp"
+            android:layout_centerVertical = "true"
+			android:textColor="#000000"
+            android:background="#ffffff"
+            android:hint="@string/searchNameOrPhone"
+                android:textSize="15sp" 
+                android:inputType = "text"                 
+                 />
+
+          <Button
+              android:id="@+id/btn_search"
+              android:layout_width="70dp"
+              android:layout_height="wrap_content"
+              android:layout_alignParentRight="true"
+              android:layout_alignTop="@+id/image_search"
+              android:textColor="#ffffff"
+              android:background="@drawable/bottom_menu_button"
+              android:onClick="btn_search_pressed"
+              android:padding="0dp"
+              android:text="@string/search"
+              android:textSize="17sp" />
+        
+        </RelativeLayout>
+    
+    
+     <ListView
+         android:id="@id/android:list"
+         android:layout_width="fill_parent"
+         android:layout_height="0dp"
+         android:layout_weight="82"
+         android:choiceMode="singleChoice"
+         android:clickable="true"
+         android:drawSelectorOnTop="true" >
+     </ListView>
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:orientation="horizontal"
+    android:weightSum="20"
+    android:layout_weight="10" >
+
+       <Button
+              android:id="@+id/btn_delete_group"
+              android:layout_weight="10"
+              android:layout_width="0dp"
+              android:textColor="#ffffff"
+              android:background="@drawable/bottom_menu_button"
+              android:layout_height="match_parent"
+              android:textSize="17sp" 
+              android:onClick = "delete_group_pressed"
+              android:text="@string/group_delete" />
+        
+        <Button
+              android:id="@+id/btn_member_regist"
+              android:layout_weight="10"
+              android:layout_width="0dp"
+              android:textColor="#ffffff"
+              android:background="@drawable/bottom_menu_button"
+              android:layout_height="match_parent"
+              android:textSize="17sp" 
+              android:onClick = "member_regist_pressed"
+              android:text="@string/member_regist" />
+      
+      </LinearLayout>
+     
+ </LinearLayout>
+

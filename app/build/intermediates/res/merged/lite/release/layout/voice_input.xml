@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="170dp"
+    android:layout_height="300dp"
+    android:background="#ffffe0"
+    android:weightSum="100"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:text="@string/voice_input"
+        android:gravity="center"
+        android:textColor="#aaaaaa"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_speak_now"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:text=""
+        android:gravity="center"
+        android:textColor="#000000"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:layout_marginTop ="0dp"
+        android:layout_marginLeft ="10dp"
+        android:layout_marginRight ="10dp"
+        android:layout_marginBottom ="0dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:scaleType="fitXY"
+        android:src="@drawable/microphone" />
+         
+        
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="20"
+            android:layout_gravity="center"
+            android:layout_marginTop ="10dp"
+            android:layout_marginLeft ="5dp"
+            android:layout_marginRight ="5dp"
+            android:layout_marginBottom ="5dp"
+            android:textSize="20sp"
+            android:text = "@string/cancel"
+            android:onClick = "btn_cancel_pressed"
+            />
+        
+        
+</LinearLayout>

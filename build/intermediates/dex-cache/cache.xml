@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_73a9eba3f17b5bfccf7f941a484f7592d650e429\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_22e7f657438e13d5e22bb72e820e5c86e678ec29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\com.android.support-support-v4-25.0.1_17738d4e3aa103352d9b2eeb3306b0f24ecc5cfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\internal_impl-25.0.1_4954c8c2a2961b345d3a7ae898181eb1e626256f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\internal_impl-25.0.1_7d6464f50d52ec9c4bc8dc3f44010b4ec908fed6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\com.android.support-support-compat-25.0.1_b1094a877dbc2b54de9220fb018225b0dc6cfc2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_f81cbb6d27e2cef11c72647a6a612bbbc3457b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\incremental-classes\lite\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b5e5f8bd9009e2bbd968f9d5375ff6309900051b">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\instant-run-bootstrap_d168d85b38d52e34e226c24f59aa4a65f1efefa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\internal_impl-25.0.1_15f598bc2c34b74730d750a54ca2a73a0578a539\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_8e423b746325f0badcd560e2ab89f7316634c2f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\internal_impl-25.0.1_c440fac155cf94ebe19093bd4bcdc0d07cb33963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\internal_impl-25.0.1_b3b2cf7f82dff570e14c51edb10b767485b383a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\support-annotations-25.0.1_8d8dc8db075b757a73fa6e623003c60815793a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\incremental-runtime-classes\lite\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9a2d0cdd3156fb99e18bc2d7c4a84f926ad7c6b9">
+        <dex dex="C:\Users\Administrator\OneDrive\stealth\hush\app\build\intermediates\transforms\dex\lite\debug\folders\1000\10\instant-run_9d3d181088c46bf9786152c38937b2c52f8869f7\classes.dex" />
+    </item>
+
+</items>

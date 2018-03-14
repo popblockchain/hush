@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+         android:orientation="vertical"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="@drawable/backgnd"
+         android:weightSum="100"
+         android:padding="0dp"
+         >
+
+    <RelativeLayout
+        android:padding="0dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="9"
+        android:layout_height="0dp"
+        >
+
+        <ImageView
+            android:id="@+id/top_title_background"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/top_title_background" />
+
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:scaleType="fitXY"
+            android:layout_marginLeft ="10dp"
+            android:layout_alignParentLeft ="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/icon" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/app_name_encrypt"
+            android:textColor="#ffffff"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft ="10dp"
+            android:layout_toRightOf="@id/iv_icon"
+            android:gravity="center_vertical"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_menu"
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:scaleType="fitXY"
+            android:layout_marginRight ="10dp"
+            android:layout_alignParentRight ="true"
+            android:layout_centerVertical="true"
+            android:background="@color/transparent"
+            android:src="@drawable/menu"
+            android:onClick = "menu_pressed"
+            />
+
+        <ImageButton
+            android:id="@+id/btn_lock"
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:scaleType="fitXY"
+            android:layout_marginRight ="60dp"
+            android:layout_alignParentRight ="true"
+            android:layout_centerVertical="true"
+            android:background="@color/transparent"
+            android:src="@drawable/lock"
+            android:onClick = "lock_pressed"
+            />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="91"
+        android:padding="0dp"
+        >
+        <TextView
+            android:id="@+id/tv_lock_info"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="30dp"
+            android:textSize="17sp"
+            android:text="타임아웃으로 자동 잠금되었습니다."
+            android:textColor="#1da2e6"
+            android:layout_gravity="top" />
+
+
+        <ImageView
+            android:id="@+id/img_lock"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon"
+            android:visibility="invisible"
+            android:layout_gravity="center"
+            />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="91"
+            android:padding="0dp"
+            >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="75"
+        android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text=""
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text=""
+        android:layout_gravity="center_horizontal" />
+
+    <ImageButton
+        android:id="@+id/btn_encrypt1"
+        android:background="@color/transparent"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:scaleType="fitXY"
+        android:layout_centerVertical="true"
+        android:src="@drawable/copy_encrypt"
+        android:onClick = "encrypt_pressed"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageButton
+        android:id="@+id/btn_copy_encrypt"
+        android:background="@color/transparent"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:scaleType="fitXY"
+        android:layout_centerVertical="true"
+        android:src="@drawable/on"
+        android:onClick = "copy_encrypt_pressed"
+        android:layout_gravity="center_horizontal" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="16"
+        android:weightSum="30"
+        >
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:gravity="center"
+            >
+        <ImageButton
+            android:id="@+id/btn_timer"
+            android:background="@color/transparent"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:scaleType="fitXY"
+            android:gravity="center"
+            android:src="@drawable/timer"
+            android:layout_gravity="center"
+            android:onClick = "timer_pressed"
+            />
+            <TextView
+                android:id="@+id/tv_timer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textColor="#1da2e6"
+                android:text=""
+                android:layout_gravity="center" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:gravity="center"
+            >
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:text="①"
+            android:background="@color/transparent"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            android:textColor="#1ca5e4"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:id="@+id/btn_puzzle"
+            android:onClick = "level_pressed"
+            />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:gravity="center"
+            >
+        <ImageButton
+            android:id="@+id/btn_share"
+            android:background="@color/transparent"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:scaleType="fitXY"
+            android:gravity="center"
+            android:src="@drawable/share"
+            android:layout_gravity="center"
+            android:onClick = "share_pressed"
+            />
+    </LinearLayout>
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_menu"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_gravity="right"
+            android:orientation="vertical"
+            android:weightSum="30"
+            android:background="@color/blue2"
+            >
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="0dp"
+                android:layout_weight="10"
+                android:text="Help"
+                android:background="@color/blue2"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:id="@+id/btn_help"
+                android:onClick = "help_pressed"
+                />
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="0dp"
+                android:layout_weight="10"
+                android:text="Change Password"
+                android:background="@color/blue2"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:id="@+id/btn_password"
+                android:onClick = "password_pressed"
+                />
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="0dp"
+                android:layout_weight="10"
+                android:text="@string/my_info"
+                android:background="@color/blue2"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:id="@+id/btn_my_info"
+                android:onClick = "my_info_pressed"
+                />
+
+        </LinearLayout>
+
+    </FrameLayout>
+</LinearLayout>
+

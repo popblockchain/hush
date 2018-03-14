@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\build\\intermediates\\incremental\\mergeLiteDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\kim\\OneDrive\\stealth\\hush\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 42,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
+    }
+]
